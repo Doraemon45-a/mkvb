@@ -27,11 +27,11 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/TheGdriveXbot/Uploaded%20Files/Squid.Game.The.Challenge.S01E04.Nowhere.To.Hide.720p.NF.WEB-DL.x264-Pahe.ink.mkv"
+        curl -L -o video.mkv "https://sxtcp.tg-index.workers.dev/0:/askuidkor/Squid.Game.S01E02.Hell.1080p.NF.WEB-DL.x264.6CH-Pahe.in.mkv"
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=-1:720,subtitles=video.mkv:si=7" -r 24 -c:v libx264 -preset fast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "scale=-1:720,subtitles=video.mkv:si=3" -r 24 -c:v libx264 -preset fast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
 
 
