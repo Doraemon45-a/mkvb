@@ -27,11 +27,11 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/Satan's.Slave.aka.Pengabdi.Setan.1982.1080p.BluRay.x264.DD2.0-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/Dosen.Ghaib.Sudah.Malam.Atau.Sudah.Tahu.2024.1080p.ytta.mkv"
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=1920:816" -r 24 -c:v libx264 -preset fast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "crop=1920:800:0:140,scale=1920:1080" -r 24 -c:v libx264 -preset fast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
 
 
