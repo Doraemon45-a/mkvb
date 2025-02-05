@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://beta.kqrumi.xyz/0/bov8oge0n9z9/Sumala.2024.1080p.NF.WEB-DL.AAC5.1.AV1-KQRM.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/Sumala.2024.1080p.NF.WEB-DL.AAC5.1.AV1-KQRM.mkv"
 
     - name: Convert MKV to MP4
       run: |
