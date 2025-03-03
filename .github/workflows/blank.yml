@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/GDFlix/Presence.2024.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/GDFlix/Luomo%20che%20guarda%201994%201080p%20BluRay%20x264%20DD2.0-Pahe.in.mkv"
 
     - name: List files for debugging
       run: ls -lh
