@@ -34,12 +34,7 @@ jobs:
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18'" -r 24 \
-        -map 0:v -map 0:1 -c:v libx264 -preset veryfast -crf 24 \
-        -c:a aac -b:a 160k -ac 2-af "volume=2.5" -movflags +faststart \
-        -map -0:10 video.mp4
-
-
+        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18'" -r 24 -map 0:v -map 0:1 -c:v libx264 -preset veryfast -crf 24 -c:a aac -b:a 160k -ac 2-af "volume=2.5" -movflags +faststart -map -0:10 video.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py video.mp4
