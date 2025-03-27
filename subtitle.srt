@@ -1,1528 +1,1703 @@
 1
-00:00:31,083 --> 00:00:34,541
-<font color="#ffff00">Kikuta! Apa yang terjadi di luar? Kikuta!</font>
+00:00:08,658 --> 00:00:11,283
+<font color="#ffff00">Kalian makan orang!</font>
 
 2
-00:00:35,000 --> 00:00:37,041
-<font color="#ffff00"><i>Kikuta! Apa yang terjadi di luar, Kikuta?</i></font>
+00:00:11,366 --> 00:00:16,575
+<font color="#ffff00">Kalian makan orang!</font>
 
 3
-00:00:37,750 --> 00:00:41,541
-<font color="#ffff00"><i>Kikuta! Hei, Kikuta! Jawab, Kikuta!</i></font>
+00:00:21,241 --> 00:00:24,741
+<font color="#ffff00">Aku ditugaskan ke sini untuk menjadi
+polisi baru kalian, Daigo Agawa.</font>
 
 4
-00:02:57,500 --> 00:02:59,625
-<font color="#ffff00">Prioritaskan anak-anak!
-Aku akan melindungimu!</font>
+00:00:25,450 --> 00:00:28,283
+<font color="#ffff00">Ini istriku, Yuki, dan putriku, Mashiro.</font>
 
 5
-00:02:59,708 --> 00:03:00,708
-<font color="#ffff00">Baik.</font>
+00:00:28,366 --> 00:00:33,241
+<font color="#ffff00">Pak Polisi dan keluarganya
+adalah penduduk resmi desa ini!</font>
 
 6
-00:03:15,208 --> 00:03:16,333
-<font color="#ffff00">Lari!</font>
+00:00:34,991 --> 00:00:38,658
+<font color="#ffff00">Lari</font>
 
 7
-00:04:11,583 --> 00:04:14,166
-<font color="#ffff00">Hei, Agawa! Sedang apa kau? Hei!</font>
+00:00:40,783 --> 00:00:41,825
+<font color="#ffff00">Gin Goto.</font>
 
 8
-00:04:14,625 --> 00:04:16,375
-<font color="#ffff00">- Buka! Hei!
-- Agawa!</font>
+00:00:43,658 --> 00:00:45,158
+<font color="#ffff00">Kepala Keluarga Goto,</font>
 
 9
-00:04:18,000 --> 00:04:19,291
-<font color="#ffff00">Agawa!</font>
+00:00:45,241 --> 00:00:48,116
+<font color="#ffff00">aku, dan nenek dari kakakku, Yosuke.</font>
 
 10
-00:04:22,875 --> 00:04:24,208
-<font color="#ffff00">Agawa!</font>
+00:00:49,450 --> 00:00:51,908
+<font color="#ffff00"><i>Maksudmu, kami menyiksanya?</i></font>
 
 11
-00:04:29,583 --> 00:04:31,083
-<font color="#ffff00">Rasanya seperti darah.</font>
+00:00:54,658 --> 00:00:56,408
+<font color="#ffff00"><i>Menjauhlah dari Keluarga Goto.</i></font>
 
 12
-00:05:39,916 --> 00:05:43,833
-<font color="#ffff00">Jika mereka gila, aku juga harus gila.</font>
+00:00:56,491 --> 00:00:59,075
+<font color="#ffff00">Sebaiknya kau tidak terlibat
+dengan Keluarga Goto.</font>
 
 13
-00:06:00,541 --> 00:06:01,541
-<font color="#ffff00">Cepat!</font>
+00:00:59,616 --> 00:01:01,991
+<font color="#ffff00">Keluarga Goto selalu menjadi
+asal mula semua masalah.</font>
 
 14
-00:07:16,083 --> 00:07:18,458
-<font color="#ffff00">Kau membuat kekacauan besar.</font>
+00:01:02,616 --> 00:01:04,200
+<font color="#ffff00"><i>Mereka pasti merahasiakan sesuatu.</i></font>
 
 15
-00:07:19,583 --> 00:07:20,833
-<font color="#ffff00">Tidak, kalianlah.</font>
+00:01:04,741 --> 00:01:07,158
+<font color="#ffff00">Aku tahu tentang masa lalumu.</font>
 
 16
-00:07:39,708 --> 00:07:41,708
-<font color="#ffff00">Hebat!</font>
+00:01:08,200 --> 00:01:10,408
+<font color="#ffff00"><i>Mashiro, ayo mati bersama.</i></font>
 
 17
-00:08:29,500 --> 00:08:30,666
-<font color="#ffff00">Tidak...</font>
+00:01:10,491 --> 00:01:12,575
+<font color="#ffff00">Kau membunuh…</font>
 
 18
-00:10:16,375 --> 00:10:17,458
-<font color="#ffff00">Jangan bergerak!</font>
+00:01:17,866 --> 00:01:19,825
+<font color="#ffff00">Hei, hentikan!</font>
 
 19
-00:10:17,833 --> 00:10:19,791
-<font color="#ffff00">Kau tak peduli yang terjadi pada anak itu?</font>
+00:01:25,408 --> 00:01:26,408
+<font color="#ffff00">Dasar aneh!</font>
 
 20
-00:10:22,375 --> 00:10:23,875
-<font color="#ffff00">Sedang apa kau, Pak Polisi?</font>
+00:01:27,075 --> 00:01:31,325
+<font color="#ffff00"><i>Salah satu peraturan Desa Kuge,
+"Jangan terlibat dengan Keluarga Goto."</i></font>
 
 21
-00:10:24,750 --> 00:10:26,000
-<font color="#ffff00">Tunjukkan dirimu sekarang!</font>
+00:01:31,408 --> 00:01:33,158
+<font color="#ffff00"><i>Kau melanggarnya.</i></font>
 
 22
-00:10:26,916 --> 00:10:27,916
-<font color="#ffff00">Hei!</font>
+00:01:41,741 --> 00:01:43,116
+<font color="#ffff00">Aku dimakan.</font>
 
 23
-00:10:29,208 --> 00:10:30,750
-<font color="#ffff00">Kubilang tunjukkan dirimu!</font>
+00:01:43,866 --> 00:01:45,033
+<font color="#ffff00">Oleh orang Desa Kuge.</font>
 
 24
-00:10:31,875 --> 00:10:33,250
-<font color="#ffff00">Ada apa dengan Pak Kepala?</font>
+00:01:46,908 --> 00:01:48,241
+<font color="#ffff00"><i>Festival nazar Kuge.</i></font>
 
 25
-00:10:33,333 --> 00:10:34,333
-<font color="#ffff00">Apa?</font>
+00:01:48,325 --> 00:01:51,283
+<font color="#ffff00"><i>Pengorbanan manusia
+pernah dilakukan untuk para dewa.</i></font>
 
 26
-00:10:34,708 --> 00:10:35,791
-<font color="#ffff00">Aku tak peduli, Bodoh!</font>
+00:01:51,825 --> 00:01:55,033
+<font color="#ffff00"><i>Ada seorang anak di suatu tempat di desa
+yang akan dimakan</i></font>
 
 27
-00:10:36,541 --> 00:10:37,875
-<font color="#ffff00">- Keluar!
-- Keluarlah, sial!</font>
+00:01:55,116 --> 00:01:56,366
+<font color="#ffff00">pada hari festival.</font>
 
 28
-00:10:37,958 --> 00:10:39,333
-<font color="#ffff00">Keluar dari sana!</font>
+00:01:57,450 --> 00:01:58,450
+<font color="#ffff00">Seorang anak?</font>
 
 29
-00:10:46,625 --> 00:10:50,458
-<font color="#ffff00">Persetan. Jika kau tidak keluar,
-akan kubunuh anak itu!</font>
+00:01:58,533 --> 00:02:01,491
+<font color="#ffff00">Bayiku masih hidup. Dia masih hidup.</font>
 
 30
-00:10:52,000 --> 00:10:56,083
-<font color="#ffff00"><i>Yosuke, aku tahu kau bisa mendengarku.
-Tembak Polisi itu dari sana.</i></font>
+00:02:02,116 --> 00:02:06,075
+<font color="#ffff00"><i>Gin Goto mengambil bayiku!</i></font>
 
 31
-00:11:09,416 --> 00:11:12,708
-<font color="#ffff00"><i>Tunggu apa lagi? Cepat tembak.</i></font>
+00:02:06,783 --> 00:02:09,700
+<font color="#ffff00"><i>Kau dan keluargamu
+harus meninggalkan desa.</i></font>
 
 32
-00:11:51,708 --> 00:11:54,416
-<font color="#ffff00">Aduh!</font>
+00:02:10,283 --> 00:02:11,658
+<font color="#ffff00">Jika terus begini,</font>
 
 33
-00:12:05,833 --> 00:12:08,000
-<font color="#ffff00">Apa yang kau lakukan, Yosuke?</font>
+00:02:12,575 --> 00:02:14,491
+<font color="#ffff00"><i>kau akan bernasib seperti Pak Kano.</i></font>
 
 34
-00:12:16,625 --> 00:12:18,500
-<font color="#ffff00">Sial!</font>
+00:02:16,825 --> 00:02:19,241
+<font color="#ffff00"><i>Aku tidak memercayai siapa pun
+di desa ini.</i></font>
 
 35
-00:13:26,125 --> 00:13:29,375
-<font color="#ffff00">GANNIBAL</font>
+00:02:19,950 --> 00:02:23,450
+<font color="#ffff00">- Aku akan membunuhmu.
+- Kau sudah gila?</font>
 
 36
-00:13:36,666 --> 00:13:37,708
-<font color="#ffff00">Keisuke...</font>
+00:02:24,408 --> 00:02:25,700
+<font color="#ffff00">Mereka yang gila, bukan aku.</font>
 
 37
-00:13:38,791 --> 00:13:40,166
-<font color="#ffff00">Tetaplah di sini sementara.</font>
+00:02:25,783 --> 00:02:27,241
+<font color="#ffff00">Itu penyakit kuru.</font>
 
 38
-00:13:43,791 --> 00:13:44,791
-<font color="#ffff00">Apa?</font>
+00:02:27,866 --> 00:02:29,116
+<font color="#ffff00">Dia orangnya.</font>
 
 39
-00:13:47,250 --> 00:13:48,750
-<font color="#ffff00">Apa yang akan kau lakukan?</font>
+00:02:29,825 --> 00:02:32,325
+<font color="#ffff00"><i>Pria yang disebut Keluarga Goto
+sebagai "Pria Itu".</i></font>
 
 40
-00:13:56,208 --> 00:13:59,500
-<font color="#ffff00">Aku akan melindungi nyawa kalian
-apa pun yang terjadi.</font>
+00:02:33,533 --> 00:02:35,491
+<font color="#ffff00">Jaga yang ini sampai saat itu tiba.</font>
 
 41
-00:14:01,333 --> 00:14:02,375
-<font color="#ffff00">Mengerti?</font>
+00:02:35,575 --> 00:02:38,075
+<font color="#ffff00">Siapkan dia untuk dipersembahkan
+kepada Pria Itu.</font>
 
 42
-00:14:04,541 --> 00:14:05,583
-<font color="#ffff00">Ayolah.</font>
+00:02:38,158 --> 00:02:40,325
+<font color="#ffff00">Apa mereka terlihat
+seperti manusia bagimu?</font>
 
 43
-00:14:16,375 --> 00:14:17,583
-<font color="#ffff00">Ini istriku.</font>
+00:02:41,033 --> 00:02:45,075
+<font color="#ffff00"><i>Manusia hanyalah potongan daging berjalan.</i></font>
 
 44
-00:14:18,208 --> 00:14:19,208
-<font color="#ffff00">Dia hamil.</font>
+00:02:45,783 --> 00:02:50,866
+<font color="#ffff00"><i>Satu-satunya orang yang kuanggap manusia
+adalah kalian yang duduk di depanku.</i></font>
 
 45
-00:14:20,416 --> 00:14:21,458
-<font color="#ffff00">Jaga dia.</font>
+00:02:50,950 --> 00:02:52,283
+<font color="#ffff00"><i>Kau juga merasakannya, bukan?</i></font>
 
 46
-00:14:22,791 --> 00:14:24,375
-<font color="#ffff00">Aku mengerti.</font>
+00:02:53,866 --> 00:02:56,283
+<font color="#ffff00">Aku melihatmu sebagai manusia,
+bukan yang lain.</font>
 
 47
-00:14:26,166 --> 00:14:28,166
-<font color="#ffff00">Bagaimana keadaan di depan?</font>
+00:02:57,325 --> 00:02:58,700
+<font color="#ffff00">Keisuke!</font>
 
 48
-00:14:29,333 --> 00:14:31,625
-<font color="#ffff00">Kau banyak membunuh mereka?</font>
+00:02:58,783 --> 00:03:01,283
+<font color="#ffff00">Kenapa kau terus menjadikan anak-anak
+sebagai korban?</font>
 
 49
-00:14:32,458 --> 00:14:34,375
-<font color="#ffff00">- Benarkah?
-- Aku penasaran keadaannya.</font>
+00:03:01,908 --> 00:03:04,033
+<font color="#ffff00">Kau akan melindunginya
+dengan nyawamu?</font>
 
 50
-00:14:38,625 --> 00:14:39,625
-<font color="#ffff00">Kumohon.</font>
+00:03:04,116 --> 00:03:06,950
+<font color="#ffff00">Aku percaya… kepada Ibu.</font>
 
 51
-00:14:45,208 --> 00:14:46,750
-<font color="#ffff00">Sudahlah.</font>
+00:03:07,866 --> 00:03:09,491
+<font color="#ffff00">Itu kutukan.</font>
 
 52
-00:14:47,500 --> 00:14:49,458
-<font color="#ffff00">- Ayo.
-- Sudahlah.</font>
+00:03:10,950 --> 00:03:13,283
+<font color="#ffff00">Aku tahu. Kau tak perlu memberitahuku.</font>
 
 53
-00:14:50,375 --> 00:14:51,958
-<font color="#ffff00">Duduklah.</font>
+00:03:15,366 --> 00:03:17,116
+<font color="#ffff00"><i>Tetap saja…</i></font>
 
 54
-00:14:52,375 --> 00:14:54,583
-<font color="#ffff00">Apa yang kau lakukan?</font>
+00:03:18,241 --> 00:03:19,325
+<font color="#ffff00"><i>Aku hamil.</i></font>
 
 55
-00:15:03,166 --> 00:15:06,333
-<font color="#ffff00">Kau tidak bisa kabur sekarang.</font>
+00:03:20,658 --> 00:03:21,658
+<font color="#ffff00">Mengandung bayimu.</font>
 
 56
-00:15:07,375 --> 00:15:08,958
-<font color="#ffff00">Apa kabar?</font>
+00:03:23,158 --> 00:03:24,741
+<font color="#ffff00">Aku harus melakukannya.</font>
 
 57
-00:15:09,041 --> 00:15:10,666
-<font color="#ffff00">Ini berita bagus.</font>
+00:03:26,116 --> 00:03:31,033
+<font color="#ffff00"><i>Ada seseorang yang membantuku
+mencari mereka.</i></font>
 
 58
-00:15:11,250 --> 00:15:13,125
-<font color="#ffff00">- Ya. Kabar baik.
-- Benar.</font>
+00:03:31,116 --> 00:03:32,741
+<font color="#ffff00">Dia baru saja menemukannya.</font>
 
 59
-00:15:13,666 --> 00:15:15,250
-<font color="#ffff00">Luar biasa.</font>
+00:03:32,825 --> 00:03:34,533
+<font color="#ffff00"><i>Aku akan ke sana sekarang.</i></font>
 
 60
-00:15:18,291 --> 00:15:19,833
-<font color="#ffff00">Keluarga Goto terus hidup.</font>
+00:03:34,616 --> 00:03:38,325
+<font color="#ffff00">Melihat situasinya, bagaimana jika kita
+mengikuti arahan Agawa?</font>
 
 61
-00:15:19,916 --> 00:15:21,125
-<font color="#ffff00">Selamat.</font>
+00:03:39,325 --> 00:03:42,991
+<font color="#ffff00"><i>Dia mungkin akan memecahkan kasus ini
+untuk selamanya.</i></font>
 
 62
-00:15:21,708 --> 00:15:24,166
-<font color="#ffff00">Ayo.</font>
+00:03:44,950 --> 00:03:46,200
+<font color="#ffff00">Bukan.</font>
 
 63
-00:15:24,250 --> 00:15:27,875
-<font color="#ffff00">Ayo.</font>
+00:03:47,075 --> 00:03:48,825
+<font color="#ffff00">Aku bukan Yamashita.</font>
 
 64
-00:15:28,958 --> 00:15:30,833
-<font color="#ffff00">- Aku akan pegal.
-- Ya.</font>
+00:03:50,283 --> 00:03:51,700
+<font color="#ffff00">Namaku Goto.</font>
 
 65
-00:15:30,916 --> 00:15:32,291
-<font color="#ffff00">Satu, dua, tiga.</font>
+00:04:09,117 --> 00:04:11,033
+<font color="#ffff00"><i>Kinojo ke Markas Okayama.</i></font>
 
 66
-00:15:32,500 --> 00:15:33,833
-<font color="#ffff00">Lempar!</font>
+00:04:11,117 --> 00:04:13,492
+<font color="#ffff00"><i>Kinojo, ini Markas Okayama. Ganti.</i></font>
 
 67
-00:15:39,875 --> 00:15:41,708
-<font color="#ffff00">Aku sudah menantikan ini! Barbeku!</font>
+00:04:13,575 --> 00:04:16,825
+<font color="#ffff00"><i>Kami memasuki Desa Kuge dari timur. Ganti.</i></font>
 
 68
-00:15:41,791 --> 00:15:43,333
-<font color="#ffff00">Barbeku!</font>
+00:04:17,408 --> 00:04:18,575
+<font color="#ffff00"><i>Ini Markas Okayama. Baik.</i></font>
 
 69
-00:15:43,416 --> 00:15:47,458
-<font color="#ffff00">Ayo, kita pergi. Bakar semuanya.</font>
+00:04:19,200 --> 00:04:22,075
+<font color="#ffff00"><i>Markas Okayama ke Hiruzen.
+Di mana posisimu sekarang? Ganti.</i></font>
 
 70
-00:15:56,166 --> 00:15:57,708
-<font color="#ffff00">Ini, disinfektan. Gunakan itu.</font>
+00:04:23,408 --> 00:04:24,658
+<font color="#ffff00"><i>Ini Hiruzen.</i></font>
 
 71
-00:16:02,791 --> 00:16:04,333
-<font color="#ffff00">Ini, disinfektan. Gunakan itu.</font>
+00:04:24,742 --> 00:04:27,533
+<font color="#ffff00"><i>Melewati pegunungan Morobe
+dan masuk wilayah Desa Kuge. Ganti.</i></font>
 
 72
-00:16:36,125 --> 00:16:37,166
-<font color="#ffff00">Sayang...</font>
+00:04:28,158 --> 00:04:29,575
+<font color="#ffff00"><i>Ini Markas Okayama. Dimengerti.</i></font>
 
 73
-00:16:39,625 --> 00:16:41,958
-<font color="#ffff00">Sayang, kenapa?</font>
+00:04:36,117 --> 00:04:39,825
+<font color="#ffff00"><i>Terjadi konfrontasi
+antara dua kelompok di Titik Alfa.</i></font>
 
 74
-00:16:57,375 --> 00:16:59,375
-<font color="#ffff00">Pergilah ke neraka.</font>
+00:04:39,908 --> 00:04:43,117
+<font color="#ffff00"><i>Meminta bantuan.
+Ulangi, meminta bantuan. Ganti.</i></font>
 
 75
-00:17:04,041 --> 00:17:06,875
-<font color="#ffff00">Jangan menangis. Berbanggalah.</font>
+00:04:45,158 --> 00:04:48,492
+<font color="#ffff00"><i>Detail ledakan yang terjadi di Beta 3
+masih belum diketahui.</i></font>
 
 76
-00:17:08,541 --> 00:17:11,375
-<font color="#ffff00">Kita membunuh lebih banyak polisi.</font>
+00:04:48,575 --> 00:04:50,950
+<font color="#ffff00"><i>Pasukan yang dikirim ke area itu
+tak bisa dihubungi.</i></font>
 
 77
-00:17:13,916 --> 00:17:17,333
-<font color="#ffff00">Selama garis keturunan berlanjut,
-keluarga ini tak akan pernah mati.</font>
+00:05:07,658 --> 00:05:09,950
+<font color="#ffff00"><i>Darurat. Hiruzen ke Markas Okayama.</i></font>
 
 78
-00:17:18,958 --> 00:17:20,291
-<font color="#ffff00">Benar, Keisuke?</font>
+00:05:10,033 --> 00:05:12,742
+<font color="#ffff00"><i>Darurat. Ini Markas Okayama.
+Silakan, Hiruzen.</i></font>
 
 79
-00:17:46,125 --> 00:17:49,833
-<font color="#ffff00">Hei, Pak Polisi!
-Berapa orang yang sudah kau bunuh?</font>
+00:05:12,825 --> 00:05:17,117
+<font color="#ffff00"><i>Kebakaran besar terjadi di Desa Kuge.
+Risiko penyebaran tinggi.</i></font>
 
 80
-00:17:49,916 --> 00:17:51,625
-<font color="#ffff00">- Lihat semua ini!
-- Diam, Berengsek!</font>
+00:05:17,783 --> 00:05:19,825
+<font color="#ffff00"><i>Meminta petugas damkar segera. Ganti.</i></font>
 
 81
-00:17:51,708 --> 00:17:53,291
-<font color="#ffff00">Kuhajar kau, Berengsek!</font>
+00:05:19,908 --> 00:05:23,075
+<font color="#ffff00"><i>Dimengerti.
+Petugas damkar sudah diberi tahu.</i></font>
 
 82
-00:17:56,083 --> 00:17:57,375
-<font color="#ffff00">Apa kau sudah gila?</font>
+00:05:26,450 --> 00:05:28,450
+<font color="#ffff00"><i>Darurat. Silakan, Kibitsu.</i></font>
 
 83
-00:17:57,458 --> 00:17:58,875
-<font color="#ffff00">- Masuk!
-- Apa?</font>
+00:05:28,533 --> 00:05:31,450
+<font color="#ffff00"><i>Beberapa warga dikonfirmasi
+di dekat lokasi kebakaran.</i></font>
 
 84
-00:17:59,208 --> 00:18:00,208
-<font color="#ffff00">Kau baik-baik saja?</font>
+00:05:32,117 --> 00:05:34,533
+<font color="#ffff00"><i>Meminta tim penyelamat tambahan. Ganti.</i></font>
 
 85
-00:18:00,291 --> 00:18:01,291
-<font color="#ffff00">Sakit!</font>
+00:05:35,367 --> 00:05:38,867
+<font color="#ffff00"><i>Ini Markas Okayama. Dimengerti.
+Petugas damkar sudah diberi tahu.</i></font>
 
 86
-00:18:03,500 --> 00:18:06,166
-<font color="#ffff00">Tim yang dikirim ke kediaman Goto
-tidak bisa dihubungi</font>
+00:05:38,950 --> 00:05:40,908
+<font color="#ffff00"><i>…kami menerima laporan kebakaran besar.</i></font>
 
 87
-00:18:09,250 --> 00:18:11,000
-<font color="#ffff00">Mereka mungkin sudah dihabisi.</font>
+00:05:40,992 --> 00:05:42,867
+<font color="#ffff00"><i>Banyak korban dekat rumah keluarga Goto.</i></font>
 
 88
-00:18:11,875 --> 00:18:12,875
-<font color="#ffff00">Seluruh tim SWAT?</font>
+00:05:59,367 --> 00:06:03,325
+<font color="#ffff00">24 jam lalu</font>
 
 89
-00:18:13,375 --> 00:18:14,375
-<font color="#ffff00">Jangan bergerak.</font>
+00:06:32,408 --> 00:06:33,408
+<font color="#ffff00">Ini.</font>
 
 90
-00:18:14,750 --> 00:18:15,791
-<font color="#ffff00">Mungkin saja.</font>
+00:07:16,117 --> 00:07:18,742
+<font color="#ffff00">Meleset, Berengsek!</font>
 
 91
-00:18:18,041 --> 00:18:20,833
-<font color="#ffff00">Jika kau pikir orang-orang ini
-manusia biasa, kau salah.</font>
+00:07:45,700 --> 00:07:46,742
+<font color="#ffff00">Jangan bergerak!</font>
 
 92
-00:18:21,291 --> 00:18:22,916
-<font color="#ffff00">Kau mendengarkan?</font>
+00:08:39,283 --> 00:08:41,867
+<font color="#ffff00">- Sembunyi!
+- Ayo! Cepat!</font>
 
 93
-00:18:23,583 --> 00:18:25,250
-<font color="#ffff00">Tangkap aku juga!</font>
+00:08:41,950 --> 00:08:43,367
+<font color="#ffff00">Lari, cepat!</font>
 
 94
-00:18:25,416 --> 00:18:26,625
-<font color="#ffff00">Aduh!</font>
+00:08:46,033 --> 00:08:47,158
+<font color="#ffff00">Ayo. Kemarilah.</font>
 
 95
-00:18:26,708 --> 00:18:27,708
-<font color="#ffff00">Berhenti!</font>
+00:11:52,658 --> 00:11:57,658
+<font color="#ffff00">Agawa mungkin pergi
+ke tempat anak-anak itu dikurung.</font>
 
 96
-00:18:27,791 --> 00:18:29,583
-<font color="#ffff00">- Diam!
-- Letakkan senjata dan berhenti.</font>
+00:11:58,367 --> 00:12:01,117
+<font color="#ffff00">Saat ini, entah apa
+yang akan dilakukan keluarga Goto.</font>
 
 97
-00:18:29,666 --> 00:18:30,708
-<font color="#ffff00">- Yosuke!
-- Letakkan!</font>
+00:12:01,992 --> 00:12:04,325
+<font color="#ffff00">Mari prioritaskan mengamankan Agawa.</font>
 
 98
-00:18:30,791 --> 00:18:35,291
-<font color="#ffff00">- Diamlah, Berengsek!
-- Kau mengerti perbuatanmu?</font>
+00:12:05,242 --> 00:12:06,283
+<font color="#ffff00">- Baik.
+- Baiklah.</font>
 
 99
-00:18:38,208 --> 00:18:39,291
-<font color="#ffff00">Berengsek!</font>
+00:12:06,367 --> 00:12:09,242
+<font color="#ffff00">Semuanya, tolong jangan bertindak gegabah.</font>
 
 100
-00:18:39,375 --> 00:18:40,375
-<font color="#ffff00">Kau mengerti?</font>
+00:12:10,867 --> 00:12:12,533
+<font color="#ffff00">Kalian dengar dia. Laksanakan.</font>
 
 101
-00:18:40,458 --> 00:18:41,541
-<font color="#ffff00">Aku menembak mereka.</font>
+00:12:13,617 --> 00:12:14,867
+<font color="#ffff00">Baiklah. Ayo.</font>
 
 102
-00:18:45,125 --> 00:18:48,083
-<font color="#ffff00">Aku menembak semua orang.</font>
+00:12:21,075 --> 00:12:23,783
+<font color="#ffff00">Aku hanya berharap mereka tepat waktu.</font>
 
 103
-00:18:50,875 --> 00:18:51,875
-<font color="#ffff00">Kau salah.</font>
+00:12:27,825 --> 00:12:29,450
+<font color="#ffff00">Ada yang menggangguku.</font>
 
 104
-00:18:54,666 --> 00:18:58,000
-<font color="#ffff00">Aku mengkhianati semua orang.</font>
+00:12:33,242 --> 00:12:34,242
+<font color="#ffff00">Apa?</font>
 
 105
-00:18:59,250 --> 00:19:00,250
-<font color="#ffff00">Tidak.</font>
+00:12:36,825 --> 00:12:37,867
+<font color="#ffff00">Katakan padaku…</font>
 
 106
-00:19:03,083 --> 00:19:05,125
-<font color="#ffff00">Kau menyelamatkan mereka semua.</font>
+00:12:39,450 --> 00:12:42,950
+<font color="#ffff00">Apa kau gunakan pengaruhmu untuk membuat
+Agawa mengamuk dengan sengaja?</font>
 
 107
-00:19:11,458 --> 00:19:12,916
-<font color="#ffff00">Yosuke...</font>
+00:12:44,742 --> 00:12:46,075
+<font color="#ffff00">Tidak mungkin.</font>
 
 108
-00:19:15,000 --> 00:19:18,666
-<font color="#ffff00">Aku tidak akan memborgolmu.
-Ikutlah denganku.</font>
+00:12:47,283 --> 00:12:49,075
+<font color="#ffff00">Itu hanya imajinasimu.</font>
 
 109
-00:20:32,333 --> 00:20:34,583
-<font color="#ffff00">Siapa yang memberitahumu
-lokasi anak-anak itu?</font>
+00:12:55,950 --> 00:12:57,492
+<font color="#ffff00">Apa yang kau rencanakan?</font>
 
 110
-00:20:44,916 --> 00:20:47,125
-<font color="#ffff00">Kau sangat menyukainya, bukan?</font>
+00:12:57,575 --> 00:12:58,575
+<font color="#ffff00">Apa?</font>
 
 111
-00:20:48,583 --> 00:20:49,583
-<font color="#ffff00">Apa?</font>
+00:13:00,867 --> 00:13:03,033
+<font color="#ffff00">Apa yang kurencanakan?</font>
 
 112
-00:20:50,000 --> 00:20:53,041
-<font color="#ffff00">Kau menyukai pembunuhan itu.</font>
+00:13:04,492 --> 00:13:09,658
+<font color="#ffff00">Hanya ada satu hal yang kami inginkan.</font>
 
 113
-00:20:56,625 --> 00:20:59,291
-<font color="#ffff00">Kau mengulangi kejadian 70 tahun lalu.</font>
+00:13:13,700 --> 00:13:14,742
+<font color="#ffff00">Benar, bukan?</font>
 
 114
-00:21:45,791 --> 00:21:47,500
-<font color="#ffff00">Kenapa kau punya ini?</font>
+00:13:16,367 --> 00:13:17,700
+<font color="#ffff00">Pak Wali Kota?</font>
 
 115
-00:21:50,583 --> 00:21:52,416
-<font color="#ffff00">Kau tidak pernah bertanya-tanya?</font>
+00:13:22,992 --> 00:13:28,492
+<font color="#ffff00">Aku tidak pernah membayangkan
+orang sepertimu muncul di sini.</font>
 
 116
-00:21:53,958 --> 00:21:59,125
-<font color="#ffff00">Bagaimana Gin Goto, putri bungsu,
-bisa menjadi kepala keluarga Goto?</font>
+00:13:43,158 --> 00:13:44,158
+<font color="#ffff00">Apa yang kau lakukan?</font>
 
 117
-00:22:01,500 --> 00:22:02,916
-<font color="#ffff00">Karena kakaknya meninggal.</font>
+00:13:45,033 --> 00:13:46,783
+<font color="#ffff00">Aku mau bicara berdua dengan Yosuke.</font>
 
 118
-00:22:11,458 --> 00:22:15,125
-<font color="#ffff00">Hei, itu terjadi tepat setelah perang.</font>
+00:13:52,283 --> 00:13:53,283
+<font color="#ffff00">Enyahlah.</font>
 
 119
-00:22:15,208 --> 00:22:16,666
-<font color="#ffff00">Apa hubungannya denganmu?</font>
+00:14:11,533 --> 00:14:12,742
+<font color="#ffff00">Akan kutanya sekali saja.</font>
 
 120
-00:22:16,750 --> 00:22:22,333
-<font color="#ffff00">Benar, tepat setelah perang.
-Orang-orang selalu mati, bukan?</font>
+00:14:13,658 --> 00:14:15,867
+<font color="#ffff00">Kau yang memberi tahu polisi itu
+lokasi selnya?</font>
 
 121
-00:22:26,416 --> 00:22:27,666
-<font color="#ffff00">Siapa kau?</font>
+00:14:17,617 --> 00:14:18,617
+<font color="#ffff00">Bukan aku.</font>
 
 122
-00:22:32,666 --> 00:22:38,791
-<font color="#ffff00">Aku cucu dari kakaknya Gin, Kinji Goto.</font>
+00:14:20,242 --> 00:14:21,325
+<font color="#ffff00">Aku memberi tahu Iwao.</font>
 
 123
-00:22:41,166 --> 00:22:44,333
-<font color="#ffff00">Aku bukan kepala keluarga palsu
-seperti Gin.</font>
+00:14:22,408 --> 00:14:24,658
+<font color="#ffff00">Aku belum bertemu polisi
+sejak membunuh beruang.</font>
 
 124
-00:22:45,250 --> 00:22:50,458
-<font color="#ffff00">Akulah yang seharusnya
-menjadi kepala keluarga Goto.</font>
+00:14:27,075 --> 00:14:29,033
+<font color="#ffff00">Lalu apa yang kau lakukan
+dengan ternak itu?</font>
 
 125
-00:23:04,708 --> 00:23:07,125
-<font color="#ffff00">Apa kau menyadari apa yang kau katakan?</font>
+00:14:29,825 --> 00:14:31,992
+<font color="#ffff00">Kudengar kau berusaha
+mengeluarkannya dari sel.</font>
 
 126
-00:23:07,708 --> 00:23:11,833
-<font color="#ffff00">Yang harus kau sadari
-adalah siapa sebenarnya Gin Goto</font>
+00:14:47,658 --> 00:14:50,283
+<font color="#ffff00">Dalam keluarga Goto,
+pengkhianatan itu kejahatan terberat.</font>
 
 127
-00:23:12,625 --> 00:23:16,666
-<font color="#ffff00">dan kakek tua yang kau sebut "Pria Itu",</font>
+00:14:51,825 --> 00:14:52,908
+<font color="#ffff00">Kau tahu itu, bukan?</font>
 
 128
-00:23:16,750 --> 00:23:20,666
-<font color="#ffff00">dan bagaimana keluarga Goto
-bisa menjadi seperti sekarang!</font>
+00:15:04,492 --> 00:15:05,617
+<font color="#ffff00">Jawab aku, Yosuke.</font>
 
 129
-00:23:43,916 --> 00:23:44,916
-<font color="#ffff00">Diam.</font>
+00:15:16,867 --> 00:15:18,242
+<font color="#ffff00">Kalau begitu, katakan.</font>
 
 130
-00:23:48,791 --> 00:23:55,083
-<font color="#ffff00">Tidak. Aku akan memberitahumu
-semua yang kuketahui.</font>
+00:15:24,367 --> 00:15:27,658
+<font color="#ffff00">Apa anak-anak itu benar-benar terlihat
+seperti ternak bagimu?</font>
 
 131
-00:24:02,125 --> 00:24:03,791
-<font color="#ffff00">Hei, bagaimana keadaan di sana?</font>
+00:15:36,908 --> 00:15:37,908
+<font color="#ffff00">Stasiun Yata</font>
 
 132
-00:24:05,500 --> 00:24:07,166
-<font color="#ffff00"><i>Tidak ada yang bisa menjawab?</i></font>
+00:15:37,992 --> 00:15:40,325
+<font color="#ffff00"><i>…silakan sebutkan nama dan keperluanmu.</i></font>
 
 133
-00:24:08,916 --> 00:24:09,916
-<font color="#ffff00">Kau bisa mendengarku?</font>
+00:15:41,825 --> 00:15:43,742
+<font color="#ffff00">Halo, Keisuke?</font>
 
 134
-00:24:11,875 --> 00:24:12,875
-<font color="#ffff00"><i>Siapa ini?</i></font>
+00:15:45,158 --> 00:15:47,617
+<font color="#ffff00">Aku di Stasiun Yata.</font>
 
 135
-00:24:14,250 --> 00:24:16,500
-<font color="#ffff00">Aku si Pak Polisi, Bodoh.</font>
+00:15:49,075 --> 00:15:50,825
+<font color="#ffff00">Aku sedang menuju Desa Kuge.</font>
 
 136
-00:24:18,250 --> 00:24:20,708
-<font color="#ffff00"><i>Kami kehilangan kontak
-dengan petugas yang ke arahmu.</i></font>
+00:15:53,492 --> 00:15:55,242
+<font color="#ffff00">Hei, ingat tempat itu?</font>
 
 137
-00:24:20,791 --> 00:24:21,791
-<font color="#ffff00"><i>Ada apa dengan mereka?</i></font>
+00:15:56,825 --> 00:15:59,117
+<font color="#ffff00">Tempat yang biasa kita kunjungi,
+kau dan aku.</font>
 
 138
-00:24:24,541 --> 00:24:27,375
-<font color="#ffff00">Situasi kita sama persis di sini.</font>
+00:16:00,700 --> 00:16:03,200
+<font color="#ffff00">Katakan, apa yang terjadi
+pada anak-anak itu?</font>
 
 139
-00:24:30,583 --> 00:24:33,125
-<font color="#ffff00">Kami sudah menahan teman-temanmu.</font>
+00:16:03,283 --> 00:16:04,617
+<font color="#ffff00">Di mana mereka?</font>
 
 140
-00:24:36,125 --> 00:24:38,833
-<font color="#ffff00">Maksudmu kau membunuh mereka?</font>
+00:16:04,700 --> 00:16:06,825
+<font color="#ffff00">Katakan! Di mana…</font>
 
 141
-00:24:44,541 --> 00:24:48,208
-<font color="#ffff00">Hei, bagaimana jika
-kita hentikan ini sekarang?</font>
+00:16:08,617 --> 00:16:11,617
+<font color="#ffff00">Lupakan saja.
+Lakukan saja sesuai perintah.</font>
 
 142
-00:24:50,583 --> 00:24:52,916
-<font color="#ffff00"><i>Apa gunanya bertarung lagi?</i></font>
-
-143
-00:24:55,041 --> 00:24:56,750
-<font color="#ffff00"><i>Datang dan menyerahlah.</i></font>
-
-144
-00:24:57,625 --> 00:24:59,083
-<font color="#ffff00">Makoto, biarkan aku bicara.</font>
-
-145
-00:25:01,916 --> 00:25:03,500
-<font color="#ffff00">Berengsek!</font>
-
-146
-00:25:07,500 --> 00:25:10,541
-<font color="#ffff00"><i>Memikirkan intinya adalah
-alasan kalian lemah.</i></font>
-
-147
-00:25:13,375 --> 00:25:15,750
-<font color="#ffff00">Kau yang harus menyerah.</font>
-
-148
-00:25:28,416 --> 00:25:29,416
-<font color="#ffff00">Apa katamu?</font>
-
-149
-00:25:34,958 --> 00:25:39,458
-<font color="#ffff00">Nyawa istri dan putrimu
-ada di tangan kami.</font>
-
-150
-00:26:00,166 --> 00:26:01,291
-<font color="#ffff00">Hei!</font>
-
-151
-00:26:07,333 --> 00:26:08,750
-<font color="#ffff00">Daigo!</font>
-
-152
-00:26:08,833 --> 00:26:12,208
-<font color="#ffff00"><i>Diam! Kami akan membunuh putrimu!</i></font>
-
-153
-00:26:28,416 --> 00:26:29,416
-<font color="#ffff00">Hubungi.</font>
-
-154
-00:26:32,083 --> 00:26:33,083
-<font color="#ffff00">Hei, Pak Polisi.</font>
-
-155
-00:26:35,166 --> 00:26:37,875
-<font color="#ffff00"><i>Aku mau memastikan
-Yuki dan Mashiro aman sekarang juga.</i></font>
-
-156
-00:26:39,000 --> 00:26:41,083
-<font color="#ffff00">Bagaimana anggota keluarga Goto di sana?</font>
-
-157
-00:26:41,166 --> 00:26:44,500
-<font color="#ffff00">Aku tak peduli. Biar kupastikan
-apa mereka sudah aman.</font>
-
-158
-00:26:45,166 --> 00:26:47,333
-<font color="#ffff00">Jika tidak,
-akan kubunuh pria ini di tempat.</font>
-
-159
-00:26:50,833 --> 00:26:52,500
-<font color="#ffff00">Siapa yang kau bicarakan?</font>
-
-160
-00:26:55,625 --> 00:26:57,750
-<font color="#ffff00">Adikmu tersayang.</font>
-
-161
-00:26:58,500 --> 00:27:00,583
-<font color="#ffff00">Kubilang aku akan membunuhnya.</font>
-
-162
-00:27:01,583 --> 00:27:03,833
-<font color="#ffff00">Kau benar-benar iblis. Kau gila.</font>
-
-163
-00:27:03,916 --> 00:27:04,916
-<font color="#ffff00">Diam.</font>
-
-164
-00:27:05,958 --> 00:27:09,791
-<font color="#ffff00">Biar kupastikan apa mereka aman.
-Akan kubunuh dia sekarang!</font>
-
-165
-00:27:20,250 --> 00:27:22,875
-<font color="#ffff00"><i>Berikan kepada mereka.
-Aku akan membunuhnya!</i></font>
-
-166
-00:27:35,041 --> 00:27:40,375
-<font color="#ffff00">Daigo. Tolong cepat kemari,
-bagaimanapun caranya.</font>
-
-167
-00:27:41,791 --> 00:27:42,958
-<font color="#ffff00">Maaf, Yuki.</font>
-
-168
-00:27:44,250 --> 00:27:46,625
-<font color="#ffff00">Aku menyeretmu dalam masalah ini.
-Mashiro bersamamu?</font>
-
-169
-00:27:49,625 --> 00:27:50,625
-<font color="#ffff00">Ya.</font>
-
-170
-00:27:53,583 --> 00:27:55,333
-<font color="#ffff00">Bertahanlah. Aku akan segera ke sana.</font>
-
-171
-00:27:55,416 --> 00:28:00,541
-<font color="#ffff00">Lalu aku akan membunuh semua bedebah
-yang menyakitimu.</font>
-
-172
-00:28:02,875 --> 00:28:04,208
-<font color="#ffff00">Apa?</font>
-
-173
-00:28:17,500 --> 00:28:20,958
-<font color="#ffff00">Hei, Pak Polisi. Kau gila.</font>
-
-174
-00:28:21,666 --> 00:28:23,875
-<font color="#ffff00">Kau mengerti apa yang kau katakan?</font>
-
-175
-00:28:26,375 --> 00:28:29,708
-<font color="#ffff00">Jika kau membunuh kami lagi sekarang,
-akan ada ganjaran besar.</font>
-
-176
-00:28:30,458 --> 00:28:34,875
-<font color="#ffff00">Berhenti mengoceh. Aku akan menukar
-pria ini dengan istri dan putriku.</font>
-
-177
-00:28:36,708 --> 00:28:38,583
-<font color="#ffff00"><i>Hei, Pak Polisi!</i></font>
-
-178
-00:28:40,625 --> 00:28:43,416
-<font color="#ffff00">Semuanya dimulai saat Gin Goto meninggal.</font>
-
-179
-00:28:44,875 --> 00:28:47,000
-<font color="#ffff00">Tak akan berakhir
-sampai kubunuh mereka semua.</font>
-
-180
-00:28:47,083 --> 00:28:48,125
-<font color="#ffff00">Agawa!</font>
-
-181
-00:28:48,208 --> 00:28:51,833
-<font color="#ffff00">- Hei, Agawa!
-- Apa yang kau lakukan? Buka pintunya!</font>
-
-182
-00:28:51,916 --> 00:28:55,583
-<font color="#ffff00">Hei! Jawab aku! Pak Polisi!</font>
-
-183
-00:28:56,500 --> 00:29:01,666
-<font color="#ffff00">- Hei, Agawa! Apa yang kau lakukan?
-- Diam. Tunggu sebentar.</font>
-
-184
-00:29:01,750 --> 00:29:02,916
-<font color="#ffff00">Mau apa kau? Agawa.</font>
-
-185
-00:29:03,000 --> 00:29:05,708
-<font color="#ffff00">Hentikan! Agawa! Aga...</font>
-
-186
-00:29:07,750 --> 00:29:13,041
-<font color="#ffff00">Agawa! Hei, Agawa!</font>
-
-187
-00:29:14,583 --> 00:29:19,083
-<font color="#ffff00">Agawa! Hei! Agawa!</font>
-
-188
-00:29:24,125 --> 00:29:26,750
-<font color="#ffff00">- Agawa.
-- Hei!</font>
-
-189
-00:29:27,125 --> 00:29:30,250
-<font color="#ffff00">Sial. Entah apa yang akan dia lakukan.</font>
-
-190
-00:29:34,083 --> 00:29:35,250
-<font color="#ffff00">Kau bisa mendengarku?</font>
-
-191
-00:29:37,291 --> 00:29:40,916
-<font color="#ffff00">Pak Polisi. Apa kau mengerti posisimu?</font>
-
-192
-00:29:44,000 --> 00:29:46,791
-<font color="#ffff00"><i>Diam dan putuskan
-di mana kita akan melakukan ini.</i></font>
-
-193
-00:29:54,833 --> 00:29:58,791
-<font color="#ffff00">Terowongan di pinggir Desa Kuge.
-Datanglah sendiri.</font>
-
-194
-00:30:04,541 --> 00:30:05,541
-<font color="#ffff00">Jangan kabur.</font>
-
-195
-00:30:21,333 --> 00:30:24,291
-<font color="#ffff00">Apa yang kau katakan itu benar?</font>
-
-196
-00:30:25,708 --> 00:30:28,833
-<font color="#ffff00">Ya, sekarang pergilah
-dan beri tahu yang lain.</font>
-
-197
-00:30:30,291 --> 00:30:33,000
-<font color="#ffff00">Atau keluarga Goto akan hancur.</font>
-
-198
-00:30:33,458 --> 00:30:36,541
-<font color="#ffff00">Tidak ada gunanya bertarung lagi.</font>
-
-199
-00:30:41,541 --> 00:30:42,541
-<font color="#ffff00">Kalau begitu...</font>
-
-200
-00:30:48,625 --> 00:30:50,958
-<font color="#ffff00">Aku tidak bisa membiarkanmu
-memberi tahu orang lain.</font>
-
-201
-00:30:53,583 --> 00:30:55,333
-<font color="#ffff00">Apa kau menyimak?</font>
-
-202
-00:30:56,333 --> 00:30:59,291
-<font color="#ffff00">Wanita tua itu menipu kalian semua!</font>
-
-203
-00:31:04,500 --> 00:31:08,208
-<font color="#ffff00">Kami tahu sejarah kami dengan baik.</font>
-
-204
-00:31:11,625 --> 00:31:12,791
-<font color="#ffff00">Bodoh.</font>
-
-205
-00:31:13,958 --> 00:31:16,208
-<font color="#ffff00">Kau benar-benar suda dicuci otak.</font>
-
-206
-00:31:19,000 --> 00:31:21,416
-<font color="#ffff00">Mati saja kalian semua.</font>
-
-207
-00:32:22,625 --> 00:32:25,083
-<font color="#ffff00">Aku mempertaruhkan nyawaku
-demi keluarga Goto.</font>
-
-208
-00:32:26,750 --> 00:32:28,333
-<font color="#ffff00">Bagaimana denganmu?</font>
-
-209
-00:32:30,375 --> 00:32:34,291
-<font color="#ffff00">Aku tidak mau ada yang mati. Itu saja.</font>
-
-210
-00:32:36,833 --> 00:32:38,625
-<font color="#ffff00">Jangan naif.</font>
-
-211
-00:32:39,375 --> 00:32:42,583
-<font color="#ffff00">Keluarga Goto terus bertahan
-karena banyak orang telah berkorban.</font>
-
-212
-00:32:43,250 --> 00:32:44,500
-<font color="#ffff00">Apa aku salah?</font>
-
-213
-00:32:48,291 --> 00:32:49,958
-<font color="#ffff00">Bawa mereka ke mobil.</font>
-
-214
-00:32:54,583 --> 00:32:57,000
-<font color="#ffff00">Kenapa masih berdiri di sini?
-Bawa mereka pergi.</font>
-
-215
-00:32:57,083 --> 00:32:59,375
-<font color="#ffff00">- Berdiri! Ayo!
-- Jangan sentuh Mashiro!</font>
-
-216
-00:32:59,458 --> 00:33:02,250
-<font color="#ffff00">Kami salah apa kepada kalian?</font>
-
-217
-00:33:05,708 --> 00:33:07,583
-<font color="#ffff00">Kami tidak punya masalah denganmu.</font>
-
-218
-00:33:08,625 --> 00:33:14,708
-<font color="#ffff00">Tapi jika bukan karena pria itu,
-kita pasti masih hidup dengan tenang.</font>
-
-219
-00:33:18,708 --> 00:33:20,583
-<font color="#ffff00">Tidak ada yang harus mati.</font>
-
-220
-00:33:22,166 --> 00:33:25,166
-<font color="#ffff00">Benar. Ini salah mereka.</font>
-
-221
-00:33:26,750 --> 00:33:27,750
-<font color="#ffff00">Aku mau balas dendam.</font>
-
-222
-00:33:27,833 --> 00:33:28,833
-<font color="#ffff00">- Hei.
-- Tunggu...</font>
-
-223
-00:33:28,916 --> 00:33:29,916
-<font color="#ffff00">Orang-orang kita mati.</font>
-
-224
-00:33:30,291 --> 00:33:31,291
-<font color="#ffff00">- Ryu!
-- Hei.</font>
-
-225
-00:33:31,375 --> 00:33:32,416
-<font color="#ffff00">Apa yang kau lakukan?</font>
-
-226
-00:33:32,500 --> 00:33:34,708
-<font color="#ffff00">Jika tak kubunuh dia,
-orang mati tak akan tenang!</font>
-
-227
-00:33:34,791 --> 00:33:37,291
-<font color="#ffff00">Maka kau harus membunuh mereka
-di depan polisi itu.</font>
-
-228
-00:33:39,125 --> 00:33:41,208
-<font color="#ffff00">Putrinya saja sudah cukup.</font>
-
-229
-00:33:41,625 --> 00:33:42,916
-<font color="#ffff00">- Sedang apa kau?
-- Ryuji!</font>
-
-230
-00:33:43,000 --> 00:33:44,375
-<font color="#ffff00">- Letakkan senjatamu!
-- Tenang!</font>
-
-231
-00:33:44,458 --> 00:33:46,375
-<font color="#ffff00">Bagaimana Yosuke
-jika kau membunuhnya?</font>
-
-232
-00:33:46,458 --> 00:33:47,791
-<font color="#ffff00">Tenanglah! Ryu!</font>
-
-233
-00:33:47,875 --> 00:33:49,166
-<font color="#ffff00">Ada apa, Keisuke?</font>
-
-234
-00:33:50,000 --> 00:33:52,875
-<font color="#ffff00">Tentu bukan kau yang memberi tahu polisi
-keberadaan anak-anak?</font>
-
-235
-00:33:54,458 --> 00:33:57,666
-<font color="#ffff00">Keadaan menjadi seperti ini
-karena kau terlalu lembek!</font>
-
-236
-00:33:59,041 --> 00:34:02,541
-<font color="#ffff00">Wanita dan anak ini hanya ternak.</font>
-
-237
-00:34:25,458 --> 00:34:26,583
-<font color="#ffff00">Cukup!</font>
-
-238
-00:34:29,291 --> 00:34:31,291
-<font color="#ffff00">Apa yang kau lakukan?</font>
-
-239
-00:34:32,458 --> 00:34:34,083
-<font color="#ffff00">Kau sadar apa yang kau lakukan?</font>
-
-240
-00:34:34,166 --> 00:34:38,166
-<font color="#ffff00">Apa yang terjadi pada polisi?
-Sudah temukan pengkhianatnya?</font>
-
-241
-00:34:38,541 --> 00:34:40,083
-<font color="#ffff00">Tenanglah.</font>
-
-242
-00:34:40,833 --> 00:34:41,833
-<font color="#ffff00">Tenanglah.</font>
-
-243
-00:34:42,291 --> 00:34:43,291
-<font color="#ffff00">Apa?</font>
-
-244
-00:34:46,958 --> 00:34:47,958
-<font color="#ffff00">Apa?</font>
-
-245
-00:35:04,333 --> 00:35:05,333
-<font color="#ffff00">Mati.</font>
-
-246
-00:35:11,291 --> 00:35:12,916
-<font color="#ffff00">Ini satu-satunya petunjuk kita.</font>
-
-247
-00:35:16,125 --> 00:35:21,208
-<font color="#ffff00">Tapi jelas ada pengkhianat.</font>
-
-248
-00:35:22,916 --> 00:35:26,458
-<font color="#ffff00">Baiklah. Sekarang bagaimana, Keisuke?</font>
-
-249
-00:35:27,375 --> 00:35:30,583
-<font color="#ffff00">Sekarang tak ada yang bisa
-membuktikan kau tak bersalah.</font>
-
-250
-00:35:30,666 --> 00:35:31,666
-<font color="#ffff00">Keisuke.</font>
-
-251
-00:35:38,166 --> 00:35:40,333
-<font color="#ffff00">Tidak ada gunanya saling bertengkar.</font>
-
-252
-00:35:44,166 --> 00:35:46,583
-<font color="#ffff00">Ada yang mencoba menghasut keluarga Goto.</font>
-
-253
-00:35:48,666 --> 00:35:49,666
-<font color="#ffff00">Ya.</font>
-
-254
-00:35:51,750 --> 00:35:52,750
-<font color="#ffff00">Keisuke.</font>
-
-255
-00:35:59,583 --> 00:36:00,583
-<font color="#ffff00">Kau tahu harus apa.</font>
-
-256
-00:36:30,250 --> 00:36:34,416
-<font color="#ffff00">Hentikan, lepaskan aku!
-Jangan sentuh Mashiro!</font>
-
-257
-00:36:35,625 --> 00:36:41,125
-<font color="#ffff00">Lari, Mashiro! Mashiro! Lari!</font>
-
-258
-00:36:42,708 --> 00:36:44,083
-<font color="#ffff00">Mashiro, lari!</font>
-
-259
-00:37:12,041 --> 00:37:16,375
-<font color="#ffff00">Keisuke. Kau tahu apa ini?</font>
-
-260
-00:37:31,458 --> 00:37:32,666
-<font color="#ffff00">Ternak.</font>
-
-261
-00:38:35,541 --> 00:38:39,458
-<font color="#ffff00">Jadi, kau pengkhianatnya.</font>
-
-262
-00:38:45,875 --> 00:38:46,875
-<font color="#ffff00">Benar.</font>
-
-263
-00:38:49,000 --> 00:38:51,041
-<font color="#ffff00">Aku yang menghubungi Kano</font>
-
-264
-00:38:52,041 --> 00:38:54,333
-<font color="#ffff00">dan mengungkap lokasi anak-anak itu.</font>
-
-265
-00:38:58,958 --> 00:39:01,875
-<font color="#ffff00">Akulah yang memulai semuanya,</font>
-
-266
-00:39:03,583 --> 00:39:04,708
-<font color="#ffff00">bukan Keisuke.</font>
-
-267
-00:39:07,750 --> 00:39:12,500
-<font color="#ffff00">Begini... Aku selalu membenci semua ini.</font>
-
-268
-00:39:15,000 --> 00:39:16,416
-<font color="#ffff00">Keluarga ini...</font>
-
-269
-00:39:19,750 --> 00:39:21,375
-<font color="#ffff00">Wanita tua itu...</font>
-
-270
-00:39:29,833 --> 00:39:30,833
-<font color="#ffff00">Begitu rupanya.</font>
-
-271
-00:39:35,875 --> 00:39:37,000
-<font color="#ffff00">Kalau begitu, matilah.</font>
-
-272
-00:40:21,375 --> 00:40:25,708
-<font color="#ffff00">Orang-orang zaman dahulu
-tampak agak tajam.</font>
-
-273
-00:40:25,958 --> 00:40:27,166
-<font color="#ffff00">Apa maksudmu?</font>
-
-274
-00:40:28,833 --> 00:40:33,250
-<font color="#ffff00">Keisuke. Dengan penampilanmu,
-kau bisa menjadi aktor.</font>
-
-275
-00:40:37,958 --> 00:40:42,541
-<font color="#ffff00">Orang-orang di film itu...
-Aku penasaran berapa usia mereka sekarang.</font>
-
-276
-00:40:43,375 --> 00:40:45,083
-<font color="#ffff00">Mereka semua pasti sudah mati.</font>
-
-277
-00:40:47,291 --> 00:40:50,041
-<font color="#ffff00">Ya. Kurasa begitu.</font>
-
-278
-00:40:52,083 --> 00:40:58,250
-<font color="#ffff00">Benar juga! Aku membelikanmu
-sepatu hari ini, Keisuke.</font>
-
-279
-00:40:59,333 --> 00:41:02,541
-<font color="#ffff00">Aku juga membelikan sepatu
-untuk Yosuke. Tunggu dulu.</font>
-
-280
-00:41:02,916 --> 00:41:06,083
-<font color="#ffff00">Yang mana tadi? Coba kuperiksa, ini...</font>
-
-281
-00:41:06,166 --> 00:41:07,833
-<font color="#ffff00">Tidak apa-apa. Tidak perlu dibuka.</font>
-
-282
-00:41:07,916 --> 00:41:10,750
-<font color="#ffff00">Jangan malu. Ini.</font>
-
-283
-00:41:21,083 --> 00:41:24,458
-<font color="#ffff00">Alkoholnya enak hari ini.</font>
-
-284
-00:41:37,583 --> 00:41:40,125
-<font color="#ffff00">Cepatlah dewasa, Keisuke.</font>
-
-285
-00:41:43,083 --> 00:41:46,958
-<font color="#ffff00">Ayahmu akhirnya menjadi kepala desa.</font>
-
-286
-00:41:48,000 --> 00:41:50,458
-<font color="#ffff00">Keadaan masih agak kacau sekarang,</font>
-
-287
-00:41:51,625 --> 00:41:54,333
-<font color="#ffff00">tapi aku akan membuat perubahan
-di sekitar sini.</font>
-
-288
-00:41:57,041 --> 00:41:59,375
-<font color="#ffff00">Jika aku tidak bisa melakukannya...</font>
-
-289
-00:42:04,208 --> 00:42:05,208
-<font color="#ffff00">maka suatu hari...</font>
-
-290
-00:42:08,666 --> 00:42:10,416
-<font color="#ffff00">kau akan melakukannya.</font>
-
-291
-00:43:25,833 --> 00:43:27,916
-<font color="#ffff00">Kenapa kau tidak kabur?</font>
-
-292
-00:43:31,750 --> 00:43:33,250
-<font color="#ffff00">Kenapa?</font>
-
-293
-00:43:43,083 --> 00:43:44,083
-<font color="#ffff00">Bagus.</font>
-
-294
-00:43:44,625 --> 00:43:45,625
-<font color="#ffff00">Ya.</font>
-
-295
-00:43:50,458 --> 00:43:55,041
-<font color="#ffff00">Tunggu apa lagi? Bersihkan sampah itu.</font>
-
-296
-00:45:34,583 --> 00:45:40,708
-<font color="#ffff00">Tunggu, Kakak! Berikan kepadaku!</font>
-
-297
-00:45:41,000 --> 00:45:43,083
-<font color="#ffff00">- Tunggu, Kakak!
-- Hei! Hati-hati!</font>
-
-298
-00:45:43,583 --> 00:45:44,583
-<font color="#ffff00">- Kakak!
-- Tidak!</font>
-
-299
-00:45:44,875 --> 00:45:48,833
-<font color="#ffff00">- Tunggu, Kakak! Berikan kepadaku!
-- Kalian bisa terluka. Kembali!</font>
-
-300
-00:45:48,916 --> 00:45:50,166
-<font color="#ffff00">Baik! Ayo.</font>
-
-301
-00:45:50,250 --> 00:45:52,416
-<font color="#ffff00">Kalian harus pulang dan mengerjakan PR.</font>
-
-302
-00:45:52,666 --> 00:45:53,666
-<font color="#ffff00">- Apa?
-- Di sana!</font>
-
-303
-00:45:54,333 --> 00:45:57,125
-<font color="#ffff00">- Astaga! Ada banyak juga di sana!
-- Banyak laba-laba!</font>
-
-304
-00:45:57,208 --> 00:45:58,208
-<font color="#ffff00">Menjijikkan!</font>
-
-305
-00:46:00,083 --> 00:46:04,416
-<font color="#ffff00">- Maaf soal itu.
-- Tidak masalah.</font>
-
-306
-00:46:04,500 --> 00:46:07,291
-<font color="#ffff00">- Berhenti!
-- Hentikan! Tidak akan kukembalikan!</font>
-
-307
-00:46:07,375 --> 00:46:08,583
-<font color="#ffff00">- Tidak boleh!
-- Hei!</font>
-
-308
-00:46:08,666 --> 00:46:11,750
-<font color="#ffff00">- Rasakan itu!
-- Hebat! Rasakan itu! Itu juga!</font>
-
-309
-00:46:24,125 --> 00:46:29,791
-<font color="#ffff00">- Masih ada! Di sana juga!
-- Kita harus kembali. Kau dengar?</font>
-
-310
-00:46:29,875 --> 00:46:30,875
-<font color="#ffff00">Di sini. Baik!</font>
-
-311
-00:47:05,875 --> 00:47:11,166
-<font color="#ffff00">Sebagian besar anak-anak selamat.
-Keluarga Goto masih bisa bertarung.</font>
-
-312
-00:47:18,041 --> 00:47:21,125
-<font color="#ffff00">Menurutmu semua ini akan terjadi
-jika Nenek Gin masih hidup?</font>
-
-313
-00:47:29,625 --> 00:47:31,666
-<font color="#ffff00">Aku tidak ingin melihatmu bersikap lemah.</font>
-
-314
-00:47:52,625 --> 00:47:53,625
-<font color="#ffff00">Terima kasih.</font>
-
-315
-00:48:07,416 --> 00:48:09,291
-<font color="#ffff00">Aku prajurit dari keluarga utama.</font>
-
-316
-00:48:12,041 --> 00:48:14,500
-<font color="#ffff00">Aku akan melakukan apa pun
-agar kau tetap hidup.</font>
-
-317
-00:48:21,375 --> 00:48:25,125
-<font color="#ffff00">Iwao, kau sungguh tidak keberatan?</font>
-
-318
-00:48:33,625 --> 00:48:34,625
-<font color="#ffff00">Keisuke...</font>
-
-319
-00:48:38,541 --> 00:48:40,375
-<font color="#ffff00">Semua orang punya peran masing-masing.</font>
-
-320
-00:48:45,083 --> 00:48:47,458
-<font color="#ffff00">Aku tak keberatan memainkan peranku
-di kehidupan ini.</font>
-
-321
-00:48:54,250 --> 00:48:55,250
-<font color="#ffff00">Begini...</font>
-
-322
-00:48:57,416 --> 00:49:00,416
-<font color="#ffff00">Tapi kurasa ada sesuatu yang lebih
-di antara kita daripada itu.</font>
-
-323
-00:49:08,583 --> 00:49:09,916
-<font color="#ffff00">Apa maksudmu?</font>
-
-324
-00:49:14,666 --> 00:49:16,666
-<font color="#ffff00">Serahkan hal-hal merepotkan kepadaku.</font>
-
-325
-00:49:18,958 --> 00:49:20,750
-<font color="#ffff00">Fokuslah memimpin keluarga.</font>
-
-326
-00:49:21,958 --> 00:49:22,958
+00:16:12,950 --> 00:16:13,950
 <font color="#ffff00">Mengerti?</font>
 
-327
-00:49:25,458 --> 00:49:26,500
+143
+00:16:48,117 --> 00:16:51,783
+<font color="#ffff00">Ternyata Ibu benar.</font>
+
+144
+00:17:10,033 --> 00:17:11,575
+<font color="#ffff00">Kini aku mengerti perasaannya.</font>
+
+145
+00:17:20,075 --> 00:17:22,325
+<font color="#ffff00">Tapi aku tidak bisa menjadi seperti dia.</font>
+
+146
+00:17:50,158 --> 00:17:57,158
+<font color="#ffff00">Polsek Kuge</font>
+
+147
+00:18:05,283 --> 00:18:11,033
+<font color="#ffff00"><i>Pak Kano dan aku sangat cocok
+saat festival nazar tiga tahun lalu.</i></font>
+
+148
+00:18:11,742 --> 00:18:13,283
+<font color="#ffff00"><i>Saat itu,</i></font>
+
+149
+00:18:13,367 --> 00:18:20,200
+<font color="#ffff00">kami, keluarga Goto,
+akrab dengan penduduk desa lain.</font>
+
+150
+00:18:26,033 --> 00:18:27,033
+<font color="#ffff00">Bagaimana?</font>
+
+151
+00:18:27,950 --> 00:18:30,117
+<font color="#ffff00">Kami sudah sampai
+di tempat anak-anak dikurung.</font>
+
+152
+00:18:32,992 --> 00:18:35,908
+<font color="#ffff00">Tapi tidak ada orang di sini.</font>
+
+153
+00:18:36,825 --> 00:18:37,908
+<font color="#ffff00"><i>Benarkah?</i></font>
+
+154
+00:18:37,992 --> 00:18:39,617
+<font color="#ffff00">Aku menemukan pistol.</font>
+
+155
+00:18:40,533 --> 00:18:42,367
+<font color="#ffff00">Kurasa milik Pak Agawa.</font>
+
+156
+00:18:45,658 --> 00:18:46,658
+<font color="#ffff00">Ini…</font>
+
+157
+00:18:47,658 --> 00:18:48,908
+<font color="#ffff00"><i>Dia menembak empat kali.</i></font>
+
+158
+00:18:49,950 --> 00:18:51,117
+<font color="#ffff00"><i>Ada noda darah.</i></font>
+
+159
+00:18:53,408 --> 00:18:55,450
+<font color="#ffff00">Tanda-tanda perlawanan.</font>
+
+160
+00:18:57,283 --> 00:18:59,367
+<font color="#ffff00">Baiklah. Kembali
+ke kantor polisi saja dulu.</font>
+
+161
+00:18:59,450 --> 00:19:00,450
+<font color="#ffff00">Berkumpul kembali.</font>
+
+162
+00:19:01,158 --> 00:19:02,158
+<font color="#ffff00"><i>Baik.</i></font>
+
+163
+00:19:06,492 --> 00:19:09,158
+<font color="#ffff00">Kurasa Pak Kano tidak cukup.</font>
+
+164
+00:19:11,492 --> 00:19:14,325
+<font color="#ffff00">Satu nyawa lagi dikorbankan
+untuk menghancurkan Keluarga Goto.</font>
+
+165
+00:19:16,408 --> 00:19:19,075
+<font color="#ffff00">Tidak, masih belum pasti.</font>
+
+166
+00:19:20,283 --> 00:19:22,825
+<font color="#ffff00">Boleh kuberi tahu?</font>
+
+167
+00:19:24,117 --> 00:19:25,117
+<font color="#ffff00">Tentu, silakan.</font>
+
+168
+00:19:30,242 --> 00:19:31,867
+<font color="#ffff00">Sebelum Pak Kano tewas…</font>
+
+169
+00:19:33,283 --> 00:19:36,158
+<font color="#ffff00"><i>Dia sedang menelepon seseorang.
+Apa kau tahu?</i></font>
+
+170
+00:19:36,742 --> 00:19:38,283
+<font color="#ffff00"><i>Ya, Agawa memberitahuku.</i></font>
+
+171
+00:19:40,283 --> 00:19:41,283
+<font color="#ffff00"><i>Dia…</i></font>
+
+172
+00:19:43,992 --> 00:19:44,992
+<font color="#ffff00">Berbicara denganku.</font>
+
+173
+00:19:50,992 --> 00:19:52,033
+<font color="#ffff00">Akhirnya kutemukan.</font>
+
+174
+00:19:52,992 --> 00:19:55,242
+<font color="#ffff00">Tempat anak-anak itu berada.</font>
+
+175
+00:20:00,658 --> 00:20:04,283
+<font color="#ffff00">Sudah kuduga, mereka ada di Desa Kuge.</font>
+
+176
+00:20:05,825 --> 00:20:08,450
+<font color="#ffff00">Aku akan memeriksa tempat itu.</font>
+
+177
+00:20:10,867 --> 00:20:11,867
 <font color="#ffff00">Ya.</font>
 
-328
-00:49:54,250 --> 00:49:57,166
-<font color="#ffff00">Aku juga mau telur
-dan acar jahe merah.</font>
-
-329
-00:49:57,250 --> 00:49:58,250
+178
+00:20:16,492 --> 00:20:17,492
 <font color="#ffff00">Baiklah.</font>
 
-330
-00:50:01,750 --> 00:50:03,083
-<font color="#ffff00">Harganya 1.300 yen.</font>
+179
+00:20:19,700 --> 00:20:20,700
+<font color="#ffff00">Ya.</font>
 
-331
-00:50:11,083 --> 00:50:13,458
-<font color="#ffff00">Maaf toiletnya sangat kotor.</font>
+180
+00:20:21,617 --> 00:20:23,658
+<font color="#ffff00">Aku mengerti semuanya sekarang.</font>
 
-332
-00:50:16,583 --> 00:50:17,583
-<font color="#ffff00">Ini kembaliannya.</font>
+181
+00:20:28,492 --> 00:20:30,825
+<font color="#ffff00">Jadi, apa yang akan kau lakukan?</font>
 
-333
-00:50:21,166 --> 00:50:22,208
-<font color="#ffff00">Kembaliannya.</font>
+182
+00:20:31,450 --> 00:20:34,200
+<font color="#ffff00">Aku akan pergi…</font>
 
-334
-00:50:23,041 --> 00:50:24,125
+183
+00:20:36,117 --> 00:20:37,117
+<font color="#ffff00">Sekarang.</font>
+
+184
+00:20:37,867 --> 00:20:39,450
+<font color="#ffff00">Baiklah.</font>
+
+185
+00:20:39,533 --> 00:20:42,450
+<font color="#ffff00">Tolong hati-hati.</font>
+
+186
+00:20:43,075 --> 00:20:44,075
+<font color="#ffff00">Baik.</font>
+
+187
+00:20:45,200 --> 00:20:46,200
 <font color="#ffff00">Terima kasih.</font>
 
-335
-00:50:26,875 --> 00:50:27,916
-<font color="#ffff00">Ya, terima kasih.</font>
+188
+00:21:32,450 --> 00:21:33,450
+<font color="#ffff00">Oh.</font>
 
-336
-00:51:57,250 --> 00:52:00,666
-<font color="#ffff00">Itu tadi anggota keluarga Goto.</font>
+189
+00:21:34,242 --> 00:21:35,242
+<font color="#ffff00"><i>Sumire…</i></font>
 
-337
-00:52:01,708 --> 00:52:02,708
-<font color="#ffff00">Apa?</font>
+190
+00:21:36,617 --> 00:21:37,617
+<font color="#ffff00"><i>Hai.</i></font>
 
-338
-00:52:09,041 --> 00:52:11,250
-<font color="#ffff00">Mungkin terjadi sesuatu pada Keisuke.</font>
+191
+00:21:45,450 --> 00:21:46,992
+<font color="#ffff00">Aku akan ke rumah keluarga Goto.</font>
 
-339
-00:52:49,125 --> 00:52:52,833
-<font color="#ffff00">Aku masih hidup?</font>
+192
+00:22:27,658 --> 00:22:28,658
+<font color="#ffff00">Hei.</font>
 
-340
-00:52:55,000 --> 00:52:59,000
-<font color="#ffff00">Aku senang kau sudah sadar.</font>
+193
+00:22:29,450 --> 00:22:31,283
+<font color="#ffff00">Putri Kano datang.</font>
 
-341
-00:53:02,166 --> 00:53:03,625
-<font color="#ffff00">Apa itu kau, Munechika?</font>
+194
+00:22:32,617 --> 00:22:33,617
+<font color="#ffff00">Ya.</font>
 
-342
-00:53:19,083 --> 00:53:23,666
-<font color="#ffff00">Genderang berbunyi di luar sana,
-jadi, sedang apa kau di sini?</font>
+195
+00:22:34,783 --> 00:22:36,783
+<font color="#ffff00">Ini telepon satelit.</font>
 
-343
-00:53:29,000 --> 00:53:31,958
-<font color="#ffff00">Keluarga Goto dan polisi bentrok.</font>
+196
+00:22:36,867 --> 00:22:39,283
+<font color="#ffff00">Dapat sinyal bahkan di pegunungan.
+Cukup berguna.</font>
 
-344
-00:53:34,250 --> 00:53:36,708
-<font color="#ffff00">Sepertinya beberapa penduduk desa tewas.</font>
+197
+00:22:40,242 --> 00:22:41,908
+<font color="#ffff00">Pak Kano menyediakannya.</font>
 
-345
-00:53:39,625 --> 00:53:40,625
+198
+00:22:41,992 --> 00:22:45,325
+<font color="#ffff00">Katanya dia meminjamnya dari seseorang.</font>
+
+199
+00:22:46,867 --> 00:22:47,867
 <font color="#ffff00">Begitu rupanya.</font>
 
-346
-00:53:43,000 --> 00:53:44,166
-<font color="#ffff00">Sepertinya...</font>
+200
+00:22:52,992 --> 00:22:56,700
+<font color="#ffff00">Andai kau mendatangi kami
+sebelum Pak Kano tewas…</font>
 
-347
-00:53:46,250 --> 00:53:50,458
-<font color="#ffff00">aku belum bisa mati dengan tenang.</font>
+201
+00:22:58,617 --> 00:23:01,867
+<font color="#ffff00">Polisi tidak akan melakukan apa pun.</font>
 
-348
-00:54:34,416 --> 00:54:37,750
-<font color="#ffff00"><i>Dengan demikian,
-Desa Kuge terus berlanjut,</i></font>
+202
+00:23:02,908 --> 00:23:04,617
+<font color="#ffff00">Kau baru datang sekarang</font>
 
-349
-00:54:38,916 --> 00:54:42,666
-<font color="#ffff00"><i>selama-lamanya.</i></font>
+203
+00:23:04,700 --> 00:23:10,242
+<font color="#ffff00">karena polisi yang kau kirim ke sini
+ternyata orang gila.</font>
 
-350
-00:55:04,291 --> 00:55:06,166
-<font color="#ffff00">Bagaimana kau bisa bertindak sejauh ini?</font>
+204
+00:23:44,450 --> 00:23:45,783
+<font color="#ffff00">Kenapa dia tahu aku di sini?</font>
 
-351
-00:55:13,291 --> 00:55:14,291
-<font color="#ffff00">Apa?</font>
+205
+00:24:06,158 --> 00:24:08,908
+<font color="#ffff00">Omong-omong,
+apa putra-putramu tidak akan curiga?</font>
 
-352
-00:55:24,458 --> 00:55:26,416
-<font color="#ffff00">Kau membuatku takut.</font>
+206
+00:24:09,492 --> 00:24:12,325
+<font color="#ffff00">Kau mengambil banyak risiko.</font>
 
-353
-00:55:33,000 --> 00:55:37,083
-<font color="#ffff00">Kau tidak peduli
-apa yang terjadi pada orang lain?</font>
+207
+00:24:13,117 --> 00:24:14,117
+<font color="#ffff00">Tidak apa-apa.</font>
 
-354
-00:55:40,625 --> 00:55:41,625
-<font color="#ffff00">Apa kau peduli?</font>
+208
+00:24:15,617 --> 00:24:21,283
+<font color="#ffff00">Tak ada yang memberitahuku hal
+yang dianggap penting oleh keluarga Goto.</font>
 
-355
-00:56:44,041 --> 00:56:45,041
+209
+00:24:23,783 --> 00:24:27,908
+<font color="#ffff00">Setelah sebuah insiden,
+mereka semua mengabaikanku.</font>
+
+210
+00:24:28,742 --> 00:24:33,533
+<font color="#ffff00">Makanya aku harus mencari sendiri
+tempat mereka mengurung anak-anak.</font>
+
+211
+00:24:34,658 --> 00:24:36,242
+<font color="#ffff00">Setelah sebuah insiden?</font>
+
+212
+00:24:37,950 --> 00:24:38,950
+<font color="#ffff00">Ya.</font>
+
+213
+00:24:40,075 --> 00:24:42,283
+<font color="#ffff00">Sejak istriku, Ai, kabur dari desa</font>
+
+214
+00:24:42,992 --> 00:24:44,450
+<font color="#ffff00">pada malam festival.</font>
+
+215
+00:24:48,200 --> 00:24:51,200
+<font color="#ffff00"><i>Semuanya berjalan sesuai rencana Gin Goto.</i></font>
+
+216
+00:24:52,908 --> 00:24:57,367
+<font color="#ffff00"><i>Aku dan Ai hanyalah alat bagi mereka.</i></font>
+
+217
+00:24:59,575 --> 00:25:01,658
+<font color="#ffff00"><i>Mereka hanya membutuhkan kami</i></font>
+
+218
+00:25:03,075 --> 00:25:04,950
+<font color="#ffff00"><i>untuk menjaga silsilah keluarga utama.</i></font>
+
+219
+00:25:16,658 --> 00:25:17,658
+<font color="#ffff00">Ibu.</font>
+
+220
+00:25:18,200 --> 00:25:19,200
+<font color="#ffff00">Ibu.</font>
+
+221
+00:25:20,783 --> 00:25:21,783
+<font color="#ffff00">Ibu baik-baik saja?</font>
+
+222
+00:25:25,242 --> 00:25:27,408
+<font color="#ffff00">Kenapa Keisuke
+dan yang lainnya tidak mengerti?</font>
+
+223
+00:25:29,033 --> 00:25:34,617
+<font color="#ffff00">Bahkan setelah kematian nenek mereka,
+mereka masih menurutinya.</font>
+
+224
+00:25:37,742 --> 00:25:39,408
+<font color="#ffff00"><i>Aku sedang menuju Desa Kuge.</i></font>
+
+225
+00:25:42,242 --> 00:25:43,867
+<font color="#ffff00"><i>Hei, ingat tempat itu?</i></font>
+
+226
+00:25:45,908 --> 00:25:47,658
+<font color="#ffff00">Tempat yang biasa kita kunjungi.</font>
+
+227
+00:25:50,242 --> 00:25:51,825
+<font color="#ffff00">Datanglah besok.</font>
+
+228
+00:25:53,075 --> 00:25:54,992
+<font color="#ffff00"><i>Aku akan menunggumu, Keisuke.</i></font>
+
+229
+00:25:57,242 --> 00:25:59,200
+<font color="#ffff00"><i>Aku ingin membicarakan bayi kita.</i></font>
+
+230
+00:26:18,992 --> 00:26:21,533
+<font color="#ffff00">Kuroe!</font>
+
+231
+00:26:24,033 --> 00:26:27,658
+<font color="#ffff00">Kuroe!</font>
+
+232
+00:26:29,533 --> 00:26:31,492
+<font color="#ffff00">Kuroe!</font>
+
+233
+00:26:40,658 --> 00:26:42,200
+<font color="#ffff00">Biarkan dia melahirkan.</font>
+
+234
+00:27:04,533 --> 00:27:07,242
+<font color="#ffff00">Hei, Semuanya! Kuroe kembali.</font>
+
+235
+00:27:08,283 --> 00:27:10,158
+<font color="#ffff00">Sadamu membawanya kembali.</font>
+
+236
+00:27:10,242 --> 00:27:12,408
+<font color="#ffff00">Sakit. Lepaskan aku.</font>
+
+237
+00:27:12,492 --> 00:27:14,075
+<font color="#ffff00">Jika kulakukan, kau kabur lagi.</font>
+
+238
+00:27:14,158 --> 00:27:15,325
+<font color="#ffff00">Aku tidak akan kabur!</font>
+
+239
+00:27:15,408 --> 00:27:17,533
+<font color="#ffff00">Nona Kuroe kembali.</font>
+
+240
+00:27:18,492 --> 00:27:19,492
+<font color="#ffff00">Kau dari mana saja?</font>
+
+241
+00:27:19,575 --> 00:27:21,200
+<font color="#ffff00">- Jangan kabur lagi.
+- Beri jalan.</font>
+
+242
+00:27:21,283 --> 00:27:23,825
+<font color="#ffff00">Beri jalan, Semuanya. Minggir!</font>
+
+243
+00:27:27,283 --> 00:27:29,283
+<font color="#ffff00">Selamat datang kembali!</font>
+
+244
+00:27:29,367 --> 00:27:30,575
+<font color="#ffff00">Aku sangat bangga padamu!</font>
+
+245
+00:27:31,783 --> 00:27:33,617
+<font color="#ffff00">Kau berhasil kembali.</font>
+
+246
+00:27:35,033 --> 00:27:36,325
+<font color="#ffff00">Maaf, Nenek.</font>
+
+247
+00:27:37,242 --> 00:27:39,658
+<font color="#ffff00">Kau tidak melakukan kesalahan.</font>
+
+248
+00:27:40,325 --> 00:27:41,575
+<font color="#ffff00">Aku tahu.</font>
+
+249
+00:27:42,825 --> 00:27:45,075
+<font color="#ffff00">Aku tak akan memilih pria
+dari penampilan lagi.</font>
+
+250
+00:27:45,158 --> 00:27:46,200
+<font color="#ffff00">Bagus sekali.</font>
+
+251
+00:27:47,117 --> 00:27:48,908
+<font color="#ffff00">Ini semua salah bedebah itu.</font>
+
+252
+00:27:50,450 --> 00:27:51,450
+<font color="#ffff00">Ada…</font>
+
+253
+00:27:52,700 --> 00:27:54,117
+<font color="#ffff00">Banyak pria baik di sini.</font>
+
+254
+00:27:54,533 --> 00:27:55,533
+<font color="#ffff00">Benar.</font>
+
+255
+00:27:55,992 --> 00:27:57,450
+<font color="#ffff00">Kuroe.</font>
+
+256
+00:27:58,075 --> 00:28:00,825
+<font color="#ffff00">Bagaimana denganku?</font>
+
+257
+00:28:00,950 --> 00:28:02,367
+<font color="#ffff00">Bukan kau.</font>
+
+258
+00:28:02,450 --> 00:28:03,825
+<font color="#ffff00">Kau itu berengsek.</font>
+
+259
+00:28:04,283 --> 00:28:05,283
+<font color="#ffff00">Aku bukan berengsek!</font>
+
+260
+00:28:06,283 --> 00:28:08,700
+<font color="#ffff00">- Diam! Jangan tertawa!
+- Dasar bodoh!</font>
+
+261
+00:28:08,783 --> 00:28:11,325
+<font color="#ffff00">- Berengsek!
+- Siapa yang kau sebut berengsek?</font>
+
+262
+00:28:11,992 --> 00:28:13,033
+<font color="#ffff00">Kau berengsek.</font>
+
+263
+00:28:14,117 --> 00:28:15,492
+<font color="#ffff00">Hei! Berhenti tertawa!</font>
+
+264
+00:28:15,575 --> 00:28:18,033
+<font color="#ffff00">- Berengsek.
+- Berhenti tertawa! Aku bukan berengsek!</font>
+
+265
+00:28:20,825 --> 00:28:22,658
+<font color="#ffff00">Orang yang bilang itu yang berengsek.</font>
+
+266
+00:28:22,742 --> 00:28:23,742
+<font color="#ffff00">Bagaimana dengan Tomo?</font>
+
+267
+00:28:23,825 --> 00:28:24,825
+<font color="#ffff00">Lupakan saja.</font>
+
+268
+00:28:27,908 --> 00:28:29,492
+<font color="#ffff00">Kau bilang sudah menyingkirkannya.</font>
+
+269
+00:28:31,200 --> 00:28:32,658
+<font color="#ffff00">Apa maksudmu?</font>
+
+270
+00:28:38,075 --> 00:28:41,075
+<font color="#ffff00">Apa yang terjadi padanya bukan urusanmu.</font>
+
+271
+00:28:43,325 --> 00:28:46,242
+<font color="#ffff00">Mau kubuat kau melupakan semuanya?</font>
+
+272
+00:28:46,325 --> 00:28:47,825
+<font color="#ffff00">Apa? Ayolah.</font>
+
+273
+00:28:48,450 --> 00:28:49,700
+<font color="#ffff00">Bagaimana, Nenek?</font>
+
+274
+00:28:49,783 --> 00:28:52,450
+<font color="#ffff00">Sadamu. Kau sudah pulang.</font>
+
+275
+00:28:54,742 --> 00:28:55,742
+<font color="#ffff00">Lama tidak bertemu.</font>
+
+276
+00:28:56,950 --> 00:28:58,367
+<font color="#ffff00">Kudengar kau kepala keluarga.</font>
+
+277
+00:28:58,908 --> 00:28:59,908
+<font color="#ffff00">Ya.</font>
+
+278
+00:29:00,450 --> 00:29:01,450
+<font color="#ffff00">Selamat.</font>
+
+279
+00:29:03,617 --> 00:29:06,450
+<font color="#ffff00">Kau pergi ke suatu tempat, bukan?</font>
+
+280
+00:29:08,158 --> 00:29:09,367
+<font color="#ffff00">Ini.</font>
+
+281
+00:29:10,325 --> 00:29:11,325
+<font color="#ffff00">Ambil satu.</font>
+
+282
+00:29:16,700 --> 00:29:17,992
+<font color="#ffff00">Aku seperti lumut.</font>
+
+283
+00:29:21,158 --> 00:29:22,950
+<font color="#ffff00">Tumbuh di tempat gelap…</font>
+
+284
+00:29:24,783 --> 00:29:26,658
+<font color="#ffff00">Hidup dalam bayangan demi keluarga Goto.</font>
+
+285
+00:29:28,867 --> 00:29:29,867
+<font color="#ffff00">Siapa pun itu…</font>
+
+286
+00:29:31,658 --> 00:29:33,617
+<font color="#ffff00">Aku tidak akan mengampuni pengkhianat!</font>
+
+287
+00:29:36,950 --> 00:29:37,992
+<font color="#ffff00">Meskipun dia…</font>
+
+288
+00:29:39,575 --> 00:29:41,408
+<font color="#ffff00">Dari keluarga utama.</font>
+
+289
+00:29:45,533 --> 00:29:47,158
+<font color="#ffff00">Siapa yang kau bicarakan?</font>
+
+290
+00:29:53,117 --> 00:29:54,117
+<font color="#ffff00">Sadamu?</font>
+
+291
+00:30:00,617 --> 00:30:01,783
+<font color="#ffff00">Lupakan saja.</font>
+
+292
+00:30:02,908 --> 00:30:04,242
+<font color="#ffff00">Astaga, aku sibuk sekali.</font>
+
+293
+00:30:05,075 --> 00:30:07,658
+<font color="#ffff00">Bisakah seseorang menyinari lumut ini?</font>
+
+294
+00:30:29,700 --> 00:30:31,117
+<font color="#ffff00">Jangan sombong.</font>
+
+295
+00:30:41,033 --> 00:30:42,908
+<font color="#ffff00">Baiklah. Aku mengerti.</font>
+
+296
+00:30:42,992 --> 00:30:44,242
+<font color="#ffff00">Aku akan bicara dengannya.</font>
+
+297
+00:30:54,242 --> 00:30:55,325
+<font color="#ffff00">Jin.</font>
+
+298
+00:31:41,533 --> 00:31:42,533
+<font color="#ffff00">Ibu.</font>
+
+299
+00:31:49,450 --> 00:31:51,450
+<font color="#ffff00">Maaf Ibu mengingat hal
+tak menyenangkan itu.</font>
+
+300
+00:31:57,867 --> 00:31:59,117
+<font color="#ffff00">Mari lupakan semuanya…</font>
+
+301
+00:32:02,408 --> 00:32:03,908
+<font color="#ffff00">Dan hidup dengan damai.</font>
+
+302
+00:32:09,242 --> 00:32:10,700
+<font color="#ffff00">Kita tidak bisa melakukan itu.</font>
+
+303
+00:32:14,158 --> 00:32:16,325
+<font color="#ffff00">Anak-anak itu pasti masih di desa itu…</font>
+
+304
+00:32:17,992 --> 00:32:19,450
+<font color="#ffff00">Menderita.</font>
+
+305
+00:32:29,408 --> 00:32:32,408
+<font color="#ffff00">Lalu kenapa kau meninggalkan mereka berdua
+dan kabur denganku?</font>
+
+306
+00:32:43,742 --> 00:32:45,658
+<font color="#ffff00">Aku kabur agar bisa membalas dendam.</font>
+
+307
+00:32:48,158 --> 00:32:50,825
+<font color="#ffff00">Jangankan desa dan keluarga Goto…</font>
+
+308
+00:32:54,158 --> 00:32:58,492
+<font color="#ffff00">Aku bahkan tidak bisa
+menyayangi anak-anakku sendiri.</font>
+
+309
+00:33:25,367 --> 00:33:27,700
+<font color="#ffff00">Ingatanku yang paling awal…</font>
+
+310
+00:33:30,492 --> 00:33:32,492
+<font color="#ffff00">Adalah tempat matahari tidak bersinar.</font>
+
+311
+00:33:36,992 --> 00:33:38,242
+<font color="#ffff00">Di sana…</font>
+
+312
+00:33:43,492 --> 00:33:46,533
+<font color="#ffff00">Aku anak yang dibiarkan hidup
+hanya untuk dimakan.</font>
+
+313
+00:33:52,617 --> 00:33:53,617
+<font color="#ffff00">Maksudmu…</font>
+
+314
+00:33:57,200 --> 00:33:58,408
+<font color="#ffff00">Sama sepertiku?</font>
+
+315
+00:34:08,867 --> 00:34:09,867
 <font color="#ffff00">Ayo.</font>
 
+316
+00:34:13,158 --> 00:34:16,533
+<font color="#ffff00"><i>Aku masih tidak tahu
+siapa orang tua kandungku.</i></font>
+
+317
+00:34:19,033 --> 00:34:20,700
+<font color="#ffff00"><i>Aku selalu sendirian.</i></font>
+
+318
+00:34:23,075 --> 00:34:26,992
+<font color="#ffff00"><i>Tidak ada yang pernah menyayangiku.</i></font>
+
+319
+00:34:35,200 --> 00:34:36,325
+<font color="#ffff00">Ai Goto.</font>
+
+320
+00:34:38,825 --> 00:34:41,242
+<font color="#ffff00">Itu namamu mulai hari ini.</font>
+
+321
+00:34:45,075 --> 00:34:47,700
+<font color="#ffff00">Kau bukan ternak lagi.</font>
+
+322
+00:34:52,033 --> 00:34:55,450
+<font color="#ffff00">Mulai sekarang,
+kau akan hidup sebagai putriku.</font>
+
+323
+00:35:00,658 --> 00:35:03,492
+<font color="#ffff00"><i>Sama seperti kali pertama
+aku menyentuh orang lain.</i></font>
+
+324
+00:35:05,450 --> 00:35:07,033
+<font color="#ffff00"><i>Sejak lahir,</i></font>
+
+325
+00:35:08,700 --> 00:35:14,950
+<font color="#ffff00"><i>aku tidak pernah mencintai siapa pun.</i></font>
+
+326
+00:35:21,575 --> 00:35:23,158
+<font color="#ffff00">- Teruskan!
+- Bertahanlah.</font>
+
+327
+00:35:24,158 --> 00:35:26,158
+<font color="#ffff00">Sudah keluar.</font>
+
+328
+00:35:26,242 --> 00:35:28,700
+<font color="#ffff00">Bagus.</font>
+
+329
+00:35:30,492 --> 00:35:32,200
+<font color="#ffff00">Bayinya laki-laki.</font>
+
+330
+00:35:40,033 --> 00:35:41,367
+<font color="#ffff00">Terima kasih.</font>
+
+331
+00:35:43,200 --> 00:35:46,075
+<font color="#ffff00">Aku berutang semua itu kepadamu.</font>
+
+332
+00:35:49,367 --> 00:35:51,033
+<font color="#ffff00">Kenapa ekspresimu begitu?</font>
+
+333
+00:35:52,283 --> 00:35:56,742
+<font color="#ffff00">Kau sudah melakukan yang terbaik
+sebagai pengantin keluarga Goto.</font>
+
+334
+00:35:57,450 --> 00:35:58,700
+<font color="#ffff00">Kau tidak senang?</font>
+
+335
+00:35:59,408 --> 00:36:00,408
+<font color="#ffff00">Aku senang.</font>
+
+336
+00:36:01,408 --> 00:36:03,117
+<font color="#ffff00">Perasaanku belum tersampaikan.</font>
+
+337
+00:36:03,950 --> 00:36:04,950
+<font color="#ffff00">Tolong maafkan aku.</font>
+
+338
+00:36:08,783 --> 00:36:10,492
+<font color="#ffff00">Aku belum pernah sebahagia ini.</font>
+
+339
+00:36:15,158 --> 00:36:17,658
+<font color="#ffff00">Itu dia. Bagus.</font>
+
+340
+00:36:19,075 --> 00:36:20,075
+<font color="#ffff00">Bukan begitu, Semua?</font>
+
+341
+00:36:26,992 --> 00:36:27,992
+<font color="#ffff00">Aku sudah memutuskan.</font>
+
+342
+00:36:30,033 --> 00:36:31,033
+<font color="#ffff00">Aku menamai anak ini</font>
+
+343
+00:36:32,450 --> 00:36:33,700
+<font color="#ffff00">Keisuke.</font>
+
+344
+00:36:34,200 --> 00:36:35,450
+<font color="#ffff00">Tuan Keisuke…</font>
+
+345
+00:36:37,575 --> 00:36:42,367
+<font color="#ffff00">Anak ini ditakdirkan membawa berkah
+bagi keluarga Goto.</font>
+
+346
+00:36:45,117 --> 00:36:48,617
+<font color="#ffff00">- Selamat!
+- Selamat!</font>
+
+347
+00:36:57,408 --> 00:36:58,867
+<font color="#ffff00">Kau hebat, Ai.</font>
+
+348
+00:36:59,950 --> 00:37:01,617
+<font color="#ffff00"><i>Jika diingat kembali sekarang…</i></font>
+
+349
+00:37:01,742 --> 00:37:03,158
+<font color="#ffff00">Aku senang sekali.</font>
+
+350
+00:37:03,242 --> 00:37:04,575
+<font color="#ffff00"><i>…Itu benar-benar lelucon.</i></font>
+
+351
+00:37:13,575 --> 00:37:14,575
+<font color="#ffff00">Namun, saat itu…</font>
+
+352
+00:37:15,992 --> 00:37:17,575
+<font color="#ffff00">Aku bahagia.</font>
+
+353
+00:37:21,283 --> 00:37:22,867
+<font color="#ffff00">Aku tidak tahu…</font>
+
+354
+00:37:24,658 --> 00:37:26,867
+<font color="#ffff00">Keisuke dan Yosuke bukan anak-anakku.</font>
+
+355
+00:37:28,908 --> 00:37:29,950
+<font color="#ffff00">Apa?</font>
+
 356
-00:57:15,416 --> 00:57:16,500
-<font color="#ffff00">Daigo.</font>
+00:37:30,783 --> 00:37:32,492
+<font color="#ffff00">Kutukan desa ini</font>
 
 357
-00:57:47,291 --> 00:57:51,291
-<font color="#ffff00">Saatnya menyelesaikan dendam
-antara keluarga Goto dan kau.</font>
+00:37:33,783 --> 00:37:35,200
+<font color="#ffff00">pasti sudah dimulai</font>
 
 358
-00:57:53,916 --> 00:57:55,708
-<font color="#ffff00">Aku akan mengakhiri semuanya.</font>
+00:37:36,158 --> 00:37:40,992
+<font color="#ffff00">jauh sebelum aku lahir.</font>
 
 359
-00:59:42,333 --> 00:59:44,333
+00:37:44,325 --> 00:37:45,700
+<font color="#ffff00">Dengan kuasa pemerintah…</font>
+
+360
+00:37:49,742 --> 00:37:52,992
+<font color="#ffff00">Cepat hancurkan Keluarga Goto!</font>
+
+361
+00:38:18,867 --> 00:38:20,533
+<font color="#ffff00">Di sini, Orang Aneh!</font>
+
+362
+00:40:16,033 --> 00:40:17,033
+<font color="#ffff00">Kau sudah sadar?</font>
+
+363
+00:40:21,242 --> 00:40:23,492
+<font color="#ffff00">Kau tidak sadarkan diri
+di sungai dekat sini.</font>
+
+364
+00:40:24,783 --> 00:40:27,283
+<font color="#ffff00">Aku cukup terkejut saat menemukanmu.</font>
+
+365
+00:40:31,075 --> 00:40:32,075
+<font color="#ffff00">Di mana aku?</font>
+
+366
+00:40:35,033 --> 00:40:36,242
+<font color="#ffff00">Kau ingat?</font>
+
+367
+00:40:37,492 --> 00:40:41,742
+<font color="#ffff00">Saat festival nazar dahulu kala,
+anak-anak dikorbankan</font>
+
+368
+00:40:41,825 --> 00:40:43,033
+<font color="#ffff00">untuk para dewa.</font>
+
+369
+00:40:45,242 --> 00:40:46,242
+<font color="#ffff00">Ya.</font>
+
+370
+00:40:47,950 --> 00:40:49,075
+<font color="#ffff00">Kau bilang itu…</font>
+
+371
+00:40:50,367 --> 00:40:52,117
+<font color="#ffff00">Untuk mengurangi yang diberi makan.</font>
+
+372
+00:40:52,950 --> 00:40:53,950
+<font color="#ffff00">Ya.</font>
+
+373
+00:40:56,575 --> 00:40:58,283
+<font color="#ffff00">Ini tempatnya.</font>
+
+374
+00:41:00,783 --> 00:41:02,992
+<font color="#ffff00">Di sinilah mereka melakukan ritual itu.</font>
+
+375
+00:41:11,117 --> 00:41:15,992
+<font color="#ffff00">Tempat ini adalah
+objek pemujaan Kuil Kurunokami.</font>
+
+376
+00:41:17,283 --> 00:41:19,033
+<font color="#ffff00">Tempat suci.</font>
+
+377
+00:41:20,492 --> 00:41:22,450
+<font color="#ffff00">Maksudmu, mereka memuja tempat…</font>
+
+378
+00:41:23,575 --> 00:41:25,700
+<font color="#ffff00">Mereka membunuh anak-anak?</font>
+
+379
+00:41:27,033 --> 00:41:28,033
+<font color="#ffff00">Benar.</font>
+
+380
+00:41:30,325 --> 00:41:31,325
+<font color="#ffff00">Tapi…</font>
+
+381
+00:41:32,200 --> 00:41:37,408
+<font color="#ffff00">Semua berawal dari kelaparan
+yang membuat mereka tak punya pilihan…</font>
+
+382
+00:41:42,492 --> 00:41:45,492
+<font color="#ffff00">Ada keluarga
+yang mulai mencuri jasad dari ritual itu.</font>
+
+383
+00:41:49,158 --> 00:41:50,242
+<font color="#ffff00">Mereka mencurinya…</font>
+
+384
+00:41:51,700 --> 00:41:52,700
+<font color="#ffff00">Dan memakannya.</font>
+
+385
+00:41:54,825 --> 00:41:55,825
+<font color="#ffff00">Begini…</font>
+
+386
+00:41:57,367 --> 00:41:59,158
+<font color="#ffff00">Entah apa yang sebenarnya terjadi.</font>
+
+387
+00:42:07,408 --> 00:42:08,408
+<font color="#ffff00">Pak Agawa.</font>
+
+388
+00:42:12,450 --> 00:42:13,450
+<font color="#ffff00">Aku tahu…</font>
+
+389
+00:42:14,825 --> 00:42:17,658
+<font color="#ffff00">Di mana anak-anak itu.</font>
+
+390
+00:42:20,575 --> 00:42:21,575
+<font color="#ffff00">Apa?</font>
+
+391
+00:42:22,283 --> 00:42:26,533
+<font color="#ffff00">Aku diam-diam diminta
+memberitahumu di mana mereka.</font>
+
+392
+00:42:31,617 --> 00:42:33,075
+<font color="#ffff00">Oleh siapa?</font>
+
+393
+00:42:35,700 --> 00:42:36,700
+<font color="#ffff00">Itu…</font>
+
+394
+00:42:52,117 --> 00:42:53,575
+<font color="#ffff00">Kau baik-baik saja, Yuki?</font>
+
+395
+00:42:53,658 --> 00:42:54,658
+<font color="#ffff00">Kau terluka?</font>
+
+396
+00:42:55,617 --> 00:42:56,617
+<font color="#ffff00">Aku baik-baik saja.</font>
+
+397
+00:42:59,783 --> 00:43:02,408
+<font color="#ffff00">Menikahi polisi
+hanya memberimu masalah, ya?</font>
+
+398
+00:43:06,075 --> 00:43:07,908
+<font color="#ffff00">Suamiku juga seorang polisi.</font>
+
+399
+00:43:08,992 --> 00:43:10,283
+<font color="#ffff00">Sudah tiga tahun menikah.</font>
+
+400
+00:43:11,367 --> 00:43:12,742
+<font color="#ffff00">Kami bertengkar tempo hari,</font>
+
+401
+00:43:14,117 --> 00:43:15,617
+<font color="#ffff00">aku melempar kaktus kepadanya!</font>
+
+402
+00:43:43,617 --> 00:43:44,867
+<font color="#ffff00">Itu kecelakaan!</font>
+
+403
+00:44:00,158 --> 00:44:01,158
+<font color="#ffff00">Hei, kau masih hidup?</font>
+
+404
+00:44:12,700 --> 00:44:13,700
+<font color="#ffff00">Hei.</font>
+
+405
+00:46:14,950 --> 00:46:16,950
 <font color="#ffff00">Diterjemahkan oleh Dea Anindya</font>
