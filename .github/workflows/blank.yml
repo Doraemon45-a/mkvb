@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/NeZha.2.2025.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/NeZha.2.2025.720p.WEB-DL.x264-Pahe.in.mkv"
 
     - name: List files for debugging
       run: ls -lh
