@@ -8,30 +8,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # 1️⃣ Checkout repo
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    # 2️⃣ Install dependencies
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y ffmpeg rclone
+        sudo apt-get install -y ffmpeg rclone curl
 
-    # Buat file rclone.conf dari GitHub Secret
+    # 3️⃣ Setup rclone config dari GitHub Secret
     - name: Setup rclone config
       run: |
         mkdir -p ~/.config/rclone
         echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
+        # Debug: pastikan config terbaca
+        cat ~/.config/rclone/rclone.conf
 
+    # 4️⃣ Download MKV file
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/NeZha.2.2025.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/NeZha.2.2025.720p.WEB-DL.x264-Pahe.in.mkv"
 
+    # 5️⃣ Convert MKV ke MP4
     - name: Convert MKV to MP4
       run: |
         ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18,MarginV=25'" \
-        -r 24 -c:v libx264 -preset veryfast -crf 30 -c:a aac -b:a 160k -ac 2 \
-        -af "volume=2.5" -movflags +faststart video.mp4
+        -r 24 -c:v libx264 -preset veryfast -crf 30 \
+        -c:a aac -b:a 160k -ac 2 -af "volume=2.5" -movflags +faststart video.mp4
 
+    # 6️⃣ Upload ke Google Drive
     - name: Upload to Google Drive
       run: |
         rclone copy video.mp4 gdrive:/ConvertedVideos/ -P
+
+    # 7️⃣ Debug list folder (opsional)
+    - name: List files in Google Drive
+      run: rclone lsl gdrive:/ConvertedVideos/
