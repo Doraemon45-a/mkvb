@@ -18,11 +18,11 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y ffmpeg rclone curl
 
-    # 3️⃣ Setup rclone config dari GitHub Secret
-    - name: Setup rclone config
+    # 3️⃣ Setup rclone config dari secret base64
+    - name: Setup rclone config (base64)
       run: |
         mkdir -p ~/.config/rclone
-        echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
+        echo "${{ secrets.RCLONE_CONF_B64 }}" | base64 --decode > ~/.config/rclone/rclone.conf
         # Debug: pastikan config terbaca
         cat ~/.config/rclone/rclone.conf
 
