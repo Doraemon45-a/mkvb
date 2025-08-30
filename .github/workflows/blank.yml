@@ -29,13 +29,13 @@ jobs:
     # 4️⃣ Download MKV file
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/NeZha.2.2025.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/MirrorFolder%20oleh%20kaelamirrorbot/The.Bad.Guys.2.2025.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
 
     # 5️⃣ Convert MKV ke MP4
     - name: Convert MKV to MP4
       run: |
         ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18,MarginV=25'" \
-        -r 24 -c:v libx264 -preset veryfast -crf 30 \
+        -r 24 -c:v libx264 -preset veryfast -crf 24 \
         -c:a aac -b:a 160k -ac 2 -af "volume=2.5" -movflags +faststart video.mp4
 
     # 6️⃣ Upload ke Google Drive
