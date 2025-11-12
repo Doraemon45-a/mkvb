@@ -29,7 +29,7 @@ jobs:
     # 4️⃣ Download MKV file
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/MirrorFolder%20oleh%20kaelamirrorbot/Three%20Days%20and%20a%20Life%20(2019)%201080p%20BluRay%20x264%206CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/KQRM/Young%20Hearts%202024%20720p%20BluRay%20x265%2010Bit-Pahe.in.mkv"
 
     # 5️⃣ Convert MKV ke MP4
     - name: Convert MKV to MP4
